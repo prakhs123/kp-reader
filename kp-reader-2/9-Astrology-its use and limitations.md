@@ -1,0 +1,2 @@
+## Astrology its use and limitations
+Astrology is a highly respected science; no other method of divination is worthy of mention. Its use can provide mental strength to the weak-minded, solace to the depressed, peace to the anxious, and steadiness to those who are wavering or vacillating in mind. It can help one to reconcile to difficult situations, and to be level-headed under any circumstances. It can also prompt one to render help to those in need, banish evil thoughts, and make efforts to lead a simple, honest, and pious life.

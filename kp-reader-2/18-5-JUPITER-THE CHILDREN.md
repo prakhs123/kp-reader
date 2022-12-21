@@ -1,0 +1,91 @@
+## JUPITER-THE CHILDREN
+
+Astronomy: Jupiter is Far Beyond the Swarm of Asteroids
+Jupiter is nearly 500 million miles from the Sun and is the mighty planet known as the giant of the solar system. It has a diameter of 88,000 miles, nearly ten times the diameter of the Earth. The radius of the orbit by which Jupiter moves is around 143 million miles and it takes a little less than twelve years to go once round the Sun.
+
+Even though the distance of Jupiter is so much, it appears in the sky as a bright object, brighter than all the other planets except Mars (Sevvai) and Venus (Sukra). On new moon days, when it is in opposition to both the luminaries, it shines brilliantly and casts a shadow. Jupiter is visible clearly to the naked eye, even when the Moon is in the sky.
+
+Jupiter is round and flattened at the poles. It also rotates on its axis, just like Earth, but the period of rotation is not uniform as the upper parts of Jupiter are not completely solidified. It rotates very fast and completes one rotation in 10 minutes less than 10 hours. Jupiter has eleven moons, whereas Earth has only one and Mars has two. will have Venus as lord of 6 or lord of 8, and both the ownership are undesirable.
+
+Mythology: Jupiter is considered to be the teacher. God Dhakshinamurthi is represented by Jupiter to remove ignorance and darkness, and to offer wisdom by throwing light. The Ancient Greeks considered Jupiter to be the father of the gods, Zeus. Egyptians called it Ammon, Norse called it Thor, Merodach was the name given by Babylonians and Chaldeans. Jupiter is the God of Righteousness and Justice, and is the symbol of Wisdom. Saivaites regard Jupiter as Dhakshinamurthi, whereas Vaishnavites regard it as Narayana. It is also said that Jupiter is the Deva Guru, whereas Venus is the Asura Guru. They say that both are enemies.
+
+We have to differ from them, as whenever Jupiter and Venus conjoin in the heavens, only prosperity is the result enjoyed by us. They do not clash in the heavens. Jupiter is for the uplift of the soul, leading one to spiritual life without attaching much to domestic life. It is for ParaLoka-Sathana. Venus is for all pleasures, including the car we use, the scent we put on, the furniture we sit on, the bedding we have, the wife we marry, the romance, the love, etc., so that one's mind is more to enjoy the fruits of life in this world. So, there is little time for him to think of God or pray for any advancement in spiritual life. He cares for 'Ilha-Lokha-Sukham'. As their mentality, conduct, etc., are just opposite to each other, they are called enemies, simply to impress on us how they will lead their lives.
+
+If Venus is an enemy to Jupiter, how can Venus have exaltation in enemy's camp Meena, governed by Guru of Jupiter? Therefore, what they say about the planets as enemies should be taken as mentioned above. But this is, in a way, correct. That is, people born in either of the Venus signs will have Jupiter as lord of 6 or lord of 8, and both the ownership are undesirable. Similarly, people born in either of the Jupiter's signs, will have Venus as lord of 6 or lord of 8, and both the ownership are undesirable.
+
+Dhanus or Meena, will have Venus owning the houses 6 or 8, thereby Venus has to cause evil for them just like Mars does for Mercury-borns, and Mercury for Mars-borns. Their mentality will also be just opposite; Mercurians think before they act, whereas Martians act first and think later.
+
+If Jupiter is a benefic to you, by lordship and occupation, and if Jupiter has conjoined with other planets or has any connection with them by occupying their sign, star, etc., you can make a judicious choice and cultivate steady habits, concentrate, meditate, and pray or read stotras on them. Jupiter-Sun Suryanarayana: 'Surya' Navagraha; Jupiter-Moon Rajarajeswari: Lakshmi; Jupiter-Mars Balasubramaniam: Kumaran; Jupiter-Dakshinamurthi czr Narayana; Jupiter-Venus Laxminarayana; Jupiter-Saturn Lord Krishna (Gita Parayana) etc. Jupiter represents Indra and governs power. It rules Rig Veda and Hemantha Ruthu (December and January). It is said to possess and offer 'Sathvaguna’. Our fortunes are governed by Jupiter, who is called the Chief Governor for Money, and is thus referred to as the greater fortune as it rules Finance and Family.
+
+Astrology: Jupiter and the Ninth House in one's horoscope indicate the extent to which one would have done meritorious deeds in their previous birth, and also how much success, honour, fortune, and glory one can have in this life. However, even if other planets are ill-posited and threaten difficulties to a person, if Jupiter is strong and well-posited in a chart, they will enjoy providential help at least at the last moment to tide over the difficulties and get rid of evil. The threatening evil planets will cause such troubles, but Jupiter, as the eleventh-hour friend, will appear at the last moment and save one, just as when "Daniel is come" and his wife is saved.
+
+It was difficult to start a motorbike. It stopped due to a police signal. When the right was given, the cyclist wanted to start, but in the meantime, the car behind him, by chance, knocked at the bike and it started without effort; the car was his god!
+
+A person is surrounded by robbers and while they are removing his cash and possessions, a jeep suddenly appears and the robbers take to their heels, while this person is saved, taken in the jeep, and dropped in a safe place. The thieves, causing anxiety to him, would be governed by Mars; worry may be due to Rahu's position in his horoscope; but Jupiter will be forming a favourable aspect to his ascendant, mostly from Venus sign; hence, the jeep arrived and saved him.
+
+Jupiter is a fiery, noble, benevolent, fruitful, masculine, jovial, buoyant, optimistic, expansive, positive, and dignified planet. The disposition will be generous and candid. Jupiter offers high reasoning ability and proper judgement. The higher attributes of the mind and the uplift of the soul are governed by Jupiter. Hence, it rules educational interests, law, religion, philosophy, banking, company administration, and economics. It also indicates how far one will be religious, will respect the elders, preceptors, mythology, Puranas, Upanishads, etc.
+
+Jupiter rules the sign Sagittarius and also Pisces. It gets exalted in Cancer. The symbol of Sagittarius is the Archer. So, those who are governed by Jupiter will be quick to hit the mark. They love outdoor games and exercises; otherwise, they will feel uneasy. Sagittarius has influence over traveling, as it is the ninth sign of the Zodiac and the Ninth House indicates long journeys. Further, it is a common sign representing pendulum, oscillation, and movement from one place to another and back again.
+
+As Jupiter owns Pisces (Meena), the native will be quiet and unassuming, sociable, ease-loving, and disposed to long journeys, and life in a foreign place. In religion, one will have sincere faith. It will increase the emotional side of the native. There may be some fondness for mysteries. One would like to be a detective or a writer of fiction.
+
+Jupiter's Influence
+
+Jupiter is the ruler of law, so those under its influence will be law-abiding, honest, sincere, and dutiful. They will be logical and broad-minded. Jupiter governs Pisces, the 12th sign of the Zodiac, which opposes the 6th sign of the Zodiac, called the Hospital of the Zodiac. Since the 12th sign Meena is a watery sign, it shows that, by taking medicine by mouth, one can have a cure. In olden days, physicians used to administer the medicine in the "planetary hours" governed by Jupiter. Hindus generally put "2" before they start writing anything so that they can invoke Jupiter's influence by marking its symbol. Physicians, in olden days, also used Jupiter's symbol before writing a prescription. But nowadays, it has changed to "R".
+
+So, Jupiterians will prefer to take medicine orally and have the cure, rather than seek a surgeon's aid. They will avoid surgery as much as possible. Jupiter, as a benefic by lordship, also gives geniality and generosity. Joy, jubilation, and joviality are attributed to this planet. One can expect respect and reputation during its period. Co-operation and congenial atmosphere will be maintained by it; progress and prosperity in life, philosophic and philanthropic nature, good conduct and morals, peace and prosperity, health and wealth are also offered by Jupiter.
+
+If Jupiter is afflicted and owns evil houses, the native will not be moderate but an extremist. They will be very liberal, extravagant, and even lavish. Over-optimism, false hopes, carelessness, debts, disputes, failure in speculation, desperate attempts, gambling, and pressure from creditors and banks, worry through children, false prestige, large donations beyond their normal capacity for charitable institutions, temples, and religion, vain pomp, loss by relying on others and standing surety to them, cheap popularity, default, and infamy, extravagance, gluttony, and unusual girth, lambodhara, misjudgement, and miscalculation are all attributed to Jupiter when it is adversely aspected by other planets and if Jupiter owns unfavorable houses and occupies evil signs and stars.
+
+Physical Features: Jupiter is said to be a judge
+Shakespeare has explained a judge as a well-built, fatty, huge-bellied person. Therefore, Jupiterians in youth will have good growth, muscular bodies due to outdoor games, and become so stout that they must be respected at least for their growth. If a man is already sitting in a seat intended for two people, and a Jupiterian later enters, the person will vacate and give room to the new comer. To other persons, it may appear as though the Jupiterian is respected, as the person vacated lest they should be crushed. It rules over the liver, tumors, circulation of blood in the arteries, and fat in the body.
+
+Diseases Caused by Jupiter
+Diseases caused by Jupiter include liver complaints, jaundice, dropsy, flatulence, dyspepsia, abscess, hernia, skin troubles, cerebral congestion, catarrh, and carbuncles.
+
+Animals: Horse, Elephant, and Ox
+
+Birds: Peacock
+
+Places: Temples, law courts, colleges and schools, large palatial buildings, durbar halls, legislative assemblies, halls where purohits deliver lectures on Puranas, and other places where religious discourses are held.
+
+Political: Large projects involving heavy expenditure will be undertaken by both big business magnates and the government. Construction of schools, colleges, universities, charitable institutions, hospitals, asylums, sanatoriums, isolation hospitals, ferries, shipping, quarters for servants, bank buildings, renovation of churches, mosques, temples, law courts, etc. will be done on a large scale.
+
+Economic: Free trade without control leads to large yields, mass production, and an easy flow of money, resulting in larger receipts and deposits in the Reserve Bank. Advantages are gained through foreign nations and their aid, as well as benefits from foreign exchange. As a result, activity in the stock exchange will be above normal, with values of shares steadily rising. Bulls will have greater advantages, new companies will come into operation, and dividends and bonus shares will be issued. The government will also gain much through income tax and other indirect taxation.
+
+Products: All fat-containing foodstuffs, such as butter and ghee, as well as sweet-flavoured eatables, large trees, rubber, metals, tin, gold, etc.
+
+Good Aspects to Jupiter: Sun forming a good aspect with Jupiter gives the native a broad outlook. Abundance and rapid recovery from even severe diseases are offered. The native will earn the friendship of all through their cheer, kindness, and sympathy. They will never betray anyone and will think clearly, do their work ably, and judge properly. They will only earn money through fair means and it will never be "tainted money". They will not benefit from the loss of others.
+
+If Mercury were to give the native a promotion, then the higher official would be transferred and that vacancy would be filled by him. If Saturn were to promote him, his senior would mostly pass away, and he would be promoted. If Jupiter were to offer him a promotion in its period, there may be expansion, and he may be lifted by creating a post and in the chain of promotions, he would have his promotion also. Thus, one has to judge.
+He may be religious and may be one of the many pillars of religious society. Legal, finance, political, banking, and educational departments and institutions may be his occupation. President, Mayor, Counsellor, M.P., M.L.A., and honorary posts may be offered either by the Sun or by the Moon, forming a good aspect with Jupiter.
+
+Moon Forming Favourable Aspect with Jupiter Gives Noble, Magnanimous, and Optimistic Disposition
+
+He will be popular, honest, and fair. His constitution will get strengthened as he grows, and his reasoning faculty will also improve. His ideals will be lofty and his imagination fertile and fruitful. General success in his life will be mainly due to the good aspect between Moon and Jupiter. There will be no trouble through litigation. He will not be extravagant, meaning he will not spend beyond his means and resources. He will not take desperate chances in speculation or gambling.
+
+Mars and Jupiter in Good Aspect:
+The native will possess sincerity, nobility, and honesty, and will be straightforward in their dealings. They will be neither too lavish nor too conservative, and will be successful in business and popular in society due to their ingenuity and constructive ability. They will be drawn to outdoor games and be a good sportsman, which will open up opportunities for them to hold a decent post in any concern, especially if the general manager is a sportsman. This aspect will also bring them love of travel, desire for captaincy, much respect, abundance of health, vitality, power, and endurance. When the native runs the conjoined period of these two planets, they will be able to hold positions such as General Manager, Managing Director, Agent of a Bank, Director of an Industry, President of any Society, Judge, or Religious Head.
+
+Mercury and Jupiter in a Favourable Aspect
+
+The native's life will be greatly enriched by the favourable aspect of Mercury and Jupiter. He will always look on the bright side of things, and even in times of adversity, he will remain in good spirits. His mind will be broad and versatile, and he will form good judgements through intelligent deliberation. He may be slow to form an opinion due to Mercury, but his decisions or conclusions will be incontrovertible.
+
+The native may find success in a variety of occupations, such as law, literature, contact with foreigners, foreign collaboration, export or import, editing, publishing, publicity, mathematics, banking accounts, auditing, and civil engineering. Plurality of interests is indicated by Mercury.
+
+Venus Forming Beneficial Aspect with Jupiter Promises Grand Success and Good Fortune
+This native will accumulate wealth, enjoy all the fruits of life, and marry a good wife. He will maintain much social prestige and be ever smiling, jovial, optimistic, and large-hearted. He will have much pleasure and enjoy life to the fullest extent. By traveling, he will form many friendships and will never lack the ability to fulfill his desires. He will not lose through the treachery of others and will have partners in business who are born lucky. He will be liked by all in the society, club, etc. As a politician, he will be loved, admired, and respected by the public. His customers in business will never desert him, and bankers may sometimes go out of their way to help him. Advocates and judges will be of much help.
+
+As Jupiter and Venus denote Accountant General and these two planets do not delay or cause difficulty, his pension accounts, pay sheets, etc., will come in time and he will not suffer. However, those who have Jupiter and Venus forming an evil aspect will not get their pensions in time even with the best efforts of the department for prompt payment.
+
+The native will earn substantially through auditing of accounts, music, animal husbandry, speculation and stock exchange, and through trade in automobiles like cars, articles of luxury like jewels, and scented articles, etc. If in the horoscope of the native, Jupiter receives a good aspect from Saturn, he will have a philosophical turn of mind and will not have much attachment to his relatives or friends. He will have a strong sense of justice and fair play and will earn the love of the young and the old and be esteemed highly in society.
+
+He will come by rich fortune if he is the owner of a mine, a dealer in cement, or a building contractor under a cooperative scheme. He will lead a happy religious life with his wife and children and will enjoy good health and wealth. Later in life, he may practice yogasana and even become a sanyasi.
+
+Uranus Forming Beneficial Aspect with Jupiter
+
+If Uranus forms a beneficial aspect with Jupiter, it will make the individual honest, trustworthy, sincere, and liberal-minded. He will be hospitable and sociable, and will gain through influential friends who hold high positions. He will be an able executive director and may associate himself with secret organizations. He will neither act on impulse nor lose by speculation or lawsuit. There may not be many changes in his life, and if there is a change, it will be due to some windfall. Those who have become very rich in a short period of time will have this beneficial aspect.
+
+Neptune and Jupiter in a good aspect will crown the native with success, as his character will be well-developed. He will have an inspirational and mystical nature, and will never be rash. He will never start a bubble company without forethought and allow it to end in a crash. He will control his emotions and be wise, with a spiritual turn of mind and will observe religious ceremonies. He will gain through export and import trade and overseas connections, and will not lose in speculation.
+
+Jupiter's Direction is Northeast. It is in Sextile to the Vernal Equinox.
