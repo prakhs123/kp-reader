@@ -17,6 +17,7 @@ Visitor: Within that limitation, can one predict accurately?
 I: Yes. However, the fate of the consultant should also be taken into account. Even if the astrologer is highly knowledgeable, they may still make mistakes and give wrong predictions if the querist is unfortunate at the time of the event.
 
 Visitor: If it is a science, how can predictions go wrong? 
+
 I: Isn't medicine a science? For example, if people suffering from typhoid are admitted to a hospital and all of them have a positive Widal test, the doctor administers the same medicine. Say, one aged 24 and the other 30 die, while the third has a relapse, but the others recover. What do you say? Same science, same disease, same medicine.
 
 Visitor: True
@@ -24,6 +25,7 @@ Visitor: True
 I: Again, don't you know that the great scientists in America are trying to land on the moon? They have been successful on many occasions, but Apollo 13 failed. Why? Is science wrong then? While applying, some mistake must have crept in. Similarly, astrologers may also fail.
 
 Visitor: But most astrologers fail in many predictions. 
+
 I: How do you classify them as astrologers? Because they know the spelling of the sun and moon, or they produce some slokas, or they are born into that family, or they continue to call themselves old, veteran astrologers in spite of their failures? If you approach such people, you will lose faith and call it a pseudo-science.
 
 Visitor: Suppose I want to do something, can astrology help me with that?
@@ -58,7 +60,9 @@ Visitor: Why can't you take up politics?
 
 I: This branch of science is still in its infancy. In my lifetime, I want to complete my research on natal charts before taking up Mundane Astrology.
 
-Visitor: Don't you think you can offer thrilling predictions and, if by chance any of these come true, you will become popular? Yes, yes. Failures will likely outnumber successes as it is not yet perfected. So the same attempt will bring ridicule and shame. Why should I take the risk or guess and be a laughingstock in the market?
+Visitor: Don't you think you can offer thrilling predictions and, if by chance any of these come true, you will become popular?
+
+I: Yes, yes. Failures will likely outnumber successes as it is not yet perfected. So the same attempt will bring ridicule and shame. Why should I take the risk or guess and be a laughingstock in the market?
 
 Visitor: If I ask you to use the available scientific rules to make a prediction, what would be the accuracy of the prediction?
 
@@ -77,6 +81,7 @@ Visitor: Why can't you do it?
 I: It is being done and it helps them take advantage of the opportunity.
 
 Visitor: Suppose I ask how long a politician will live? 
+
 I: First of all, I am not concerned with who rules, whether it be X or Y, or how long they will remain in power. If I must give an answer to please you, I will do so, but only for your sake.
 
 Visitor: Have you ever predicted correctly?

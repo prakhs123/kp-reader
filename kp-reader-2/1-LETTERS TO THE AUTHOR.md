@@ -10,7 +10,7 @@ I verified the chart by applying your K.P. and was surprised to find it most acc
 Sincerely,  
 V. Balakrishanmurthi Chinnasalem
 
----
+
 Dear Sir,
 
 Krishnamurthi Padhdhati in Astrology is a great achievement in Indian Astrology and Predictive Stellar Astrology. On the basis of this Padhdhati, the results are one hundred percent correct. ‘Astrology and Athrishta', the monthly magazine, is a gem of an astrological magazine published throughout the world.
@@ -21,7 +21,7 @@ Yours faithfully,
 Professor S.R. Janardhana Rao, B.A.   
 Famous Astro-Palmist of India
 
----
+
 Dear Brother Krishnamurti, 
 
 I am a student of Astrology and have purchased both volumes of your incredible book, "Krishnamurti Padhdhati". I am reading it carefully and enjoying each chapter. This book is your personal contribution to Astrology and will remain permanent. Your original thinking, deep insight into the subject, and angelic predictions have captivated my imagination.
@@ -31,7 +31,7 @@ Sincerely,
 P.N. Saxena  
 Warangal
 
----
+
 Dear Sir,
 
 It has indeed been my good fortune and proud privilege to have been introduced to you and to have heard your scholarly and entertaining address, spiced with humour. I had previously been misled by a mistaken impression that lecturers on astrology would be dull, drab, and insipid. However, I found your predictions to be interesting and enthusiastic. Your lecture has left a deep and abiding impression, and I wish to become a devoted disciple with no material interest except to gain a working knowledge, if not mastery, of "Krishnamurti Padhdhati".
@@ -41,7 +41,7 @@ Thanking you,
 Yours faithfully,  
 M.S. Srinivasachary, M.A.
 
----
+
 Respected Guruji,
 
 I cannot help but express my admiration for your Padhdhati. I have read many books by various well-known authors, but none have given me the same satisfaction as your work. Your Ayanamsa also gives wonderfully accurate results, which I have tested on numerous known horoscopes to great success.
@@ -52,7 +52,7 @@ With kindest regards and best wishes,
 Yours affectionately,  
 T.C. Malhan  
 
----
+
 From  
 M. Govinda Gowda  
 Senior Railway Officer  
