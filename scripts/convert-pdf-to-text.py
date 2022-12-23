@@ -3,7 +3,7 @@ import pytesseract
 from pytesseract import Output
 import argparse
 
-pdf_path = "../pdf/J_KP reader_2_fundamental Principles of Astrology.pdf"
+pdf_path = "../pdf/J_KP reader_1_casting the horoscope.pdf"
 
 parser = argparse.ArgumentParser()
 parser.add_argument('first_page', type=int, help='The first page number')
