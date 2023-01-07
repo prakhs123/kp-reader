@@ -31,15 +31,15 @@ chunks = text.split('\n\n')
 
 for chunk in chunks:
     print(len(chunk)/4)
-    # if len(chunk)/4 > 1000:
-        # print(chunk)
+    if len(chunk)/4 > 1950:
+        print(chunk)
     print('-'*100)
 
 with open(md_file_path, "a") as fout:
     for chunk in chunks:
         response = openai.Completion.create(
             model="text-davinci-003",
-            prompt="Correct this to standard English with the heading if present:\n"+chunk,
+            prompt="Correct this to standard English with optional heading if it is present, don't add heading unnecessary:\n"+chunk,
             temperature=0,
             max_tokens=2000,
             top_p=1.0,

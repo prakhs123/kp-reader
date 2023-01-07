@@ -2,8 +2,9 @@ import pdf2image
 import pytesseract
 from pytesseract import Output
 import argparse
+import re
 
-pdf_path = "../pdf/J_KP reader_1_casting the horoscope.pdf"
+pdf_path = "../pdf/J_KP reader_3_Predictive Stellar Astrology.pdf"
 
 parser = argparse.ArgumentParser()
 parser.add_argument('first_page', type=int, help='The first page number')
@@ -55,8 +56,18 @@ pages = []
 for image in images:
     ocr_dict = pytesseract.image_to_data(image, lang='eng', output_type=Output.DICT)
     # ocr_dict now holds all the OCR info including text and location on the image
+    texts = [c.strip() for c in ocr_dict['text']]
+    # strip texts after line
+    found_index = -1
+    for index, s in enumerate(texts):
+        if s and re.match(r'[a-z.,0-9]', s[-1]):
+            if len(texts) > index + 3 and texts[index+1:index+4] == ['', '', '']:
+                found_index = index
+    filtered_texts = texts
+    if found_index != -1 and found_index > 20:
+        filtered_texts = texts[:found_index+1]
     pattern = ['', '', '']
-    chunks = split_list_by_pattern(ocr_dict['text'], pattern)
+    chunks = split_list_by_pattern(texts, pattern)
     final_chunks = []
     # print(chunks)
     for chunk in chunks:
@@ -66,6 +77,8 @@ for image in images:
         if filtered_chunk_3 and not filtered_chunk_3[0].isnumeric():
             final_chunks.append(filtered_chunk_3)
     # print(final_chunks)
+    if final_chunks[-1] and final_chunks[-1][-1].isnumeric():
+        final_chunks = final_chunks[:-1]
     pages.append(final_chunks)
 
 final_chunks_across_pages = []
