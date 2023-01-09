@@ -42,7 +42,7 @@ def make_request(chunk):
     # Make request to API
     response = openai.Completion.create(
         model="text-davinci-003",
-        prompt="Correct this to standard English, fix OCR errors, don't add heading and output in markdown format:\n" + chunk,
+        prompt="Fix the OCR errors:\n" + chunk,
         temperature=0,
         max_tokens=2000,
         top_p=1.0,
