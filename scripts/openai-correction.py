@@ -52,31 +52,31 @@ def make_request(chunk):
     return response
 
 
-with open(md_file_path, "a") as fout:
-    for chunk in chunks:
-        max_retries = 2
-        retry_delay = 2
-
-        for i in range(max_retries):
-            try:
-                response = make_request(chunk)
-                # Request succeeded, break out of loop
-                break
-            except Exception as e:
-                if i == max_retries - 1:
-                    # Last retry, raise exception
-                    raise e
-                else:
-                    # Calculate delay for next retry
-                    retry_delay *= 2
-                    time.sleep(retry_delay)
-        ans = response["choices"][0]
-        if ans["finish_reason"] == "stop":
-            print(chunk)
-            print('-'*100)
-            print(ans['text'])
-            print('-' * 100)
-            fout.write(ans['text'])
-        else:
-            print(response)
-            sys.exit(1)
+# with open(md_file_path, "a") as fout:
+#     for chunk in chunks:
+#         max_retries = 2
+#         retry_delay = 2
+#
+#         for i in range(max_retries):
+#             try:
+#                 response = make_request(chunk)
+#                 # Request succeeded, break out of loop
+#                 break
+#             except Exception as e:
+#                 if i == max_retries - 1:
+#                     # Last retry, raise exception
+#                     raise e
+#                 else:
+#                     # Calculate delay for next retry
+#                     retry_delay *= 2
+#                     time.sleep(retry_delay)
+#         ans = response["choices"][0]
+#         if ans["finish_reason"] == "stop":
+#             print(chunk)
+#             print('-'*100)
+#             print(ans['text'])
+#             print('-' * 100)
+#             fout.write(ans['text'])
+#         else:
+#             print(response)
+#             sys.exit(1)
