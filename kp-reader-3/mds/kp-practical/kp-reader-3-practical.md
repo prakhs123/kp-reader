@@ -368,8 +368,8 @@ Krishnamurthi Padhdhati suggests judging one's finance and fortune as follows:
 
 - Planets posited in the constellation of the occupants in the houses 2, 6, 10 or 11 are the strongest to give wealth to a person, even if they are debilitated or in enemy's house. Their periods and sub-periods will still improve one's status if they are in the sub of the Significators of 2 or 6 or 11.
 - The planets tenanted in the above said houses and occupying the sub of the significators of 2, 6 or 11 should not be afflicted by the lord of the constellations in which they are. They indicate an increase in income and savings.
-- The planets in the constellation of the lords of the houses 2 or 6 or 10 or 11 and is in the Sub of Significators of 2, 6. or 11.
-- The lords of these houses in the Sub of the significators of 2,6 or 11.
+- The planets in the constellation of the lords of the houses 2 or 6 or 10 or 11 and is in the Sub of Significators of 2, 6 or 11.
+- The lords of these houses in the Sub of the significators of 2, 6 or 11.
 - Those which are conjoined with the significators or aspected by them.
 
 Planets contribute to one's riches:
@@ -532,3 +532,557 @@ Moon indicates changes, transfers and life in a far-off place. Ketu shows a thor
 - Rahu Dasa, Venus Bhukti, Jupiter Anthra November 1972 - very popular and climax in career, different nature of work.
 - Rahu Dasa, Mars Bhukti, Jupiter Anthra July 1976 - covetable post will be offered.
 - Jupiter Dasa, Sani Bhukti, Ketu Anthra March 1980 - retirement.
+
+## RETIREMENT - BY WHEN
+
+Houses 2, 6, and 10 indicate service. So, 12th house to the above, i.e. 1, 5, and 9, show the end of service or retirement.
+
+Signification of 1, 5, 9: Saturn is in 1 and Mercury is in Saturn's star. Sun is the owner of 1 and there are no planets in Sun's star. There are no planets in 5; Jupiter is the owner. Mars is in Jupiter's star. Moon and Kethu are in 9; there are no bodies in Moon's star. Venus and Jupiter are in Kethu's star. Rahu is also to be taken as a significator, as it represents Venus and is also aspected by Saturn and Moon. So, all nine planets come as significators. Remember, nodes are stronger than planets.
+
+At the time of retirement (normally around 60 years of age), he will be running Jupiter dasa Saturn Bhukti (from 28.5.79). Among the significators, Kethu is the strongest and hence choose Kethu Anthra. So, at the time when Sun transits in the sign governed by Jupiter (dasa Lord) in the star Uthrapadra (Bukthi Lord) and Kethu Sub (Anthara lord), on or around 21-3-1980, he will retire from service.
+
+## GAIN BY LOTTERY - LUCK
+Sir, when I wrote to you last month asking you to explain how one could be honoured at a time when one had sadesathi (seven and-half), I had my horoscope in mind, as in Bombay all were frightening me by saying that I was having 7 1/2 years Saturn. You may remember that when you visited Bombay in April, 1960, you predicted that I should have gains without pains on various occasions in my life and one of the dates was in December, 1964, inspite of the so-called sade-Sati. It is really a pleasant surprise that I have got Rs.500/- as a prize for the prize bond of Rs.5/- denomination purchased by me on 16-4-1960 (on your advice) and the draw was held in Bombay on 1-12-64. The number of my prize bond is A.H. 268076. This is for your information.
+
+![img_10.png](img_10.png)
+
+Answer:
+Very happy to know that you had come by fortune and thereby the prediction also has proved to be true. Sade-Sati is an excuse for the astrologer with half-baked knowledge, to explain the never ending difficulties and worries of native! It is a meaningless 'Slogan'.
+
+You are now running Rahu Dasa, Moon Bhukti, Sun Anthra. Actually you received the cash on Monday ruled by Moon, in Swathi Star, ruled by Rahu. Why?
+
+- Houses 1, 2, 3, 6, 10 and 11, receiving favourable aspects promise victory over enemies; success in litigation; win in competition and gain in lottery, games, etc.
+- 5th house shows the mind to speculate; the tendency, the opportunity to bet, etc. Houses 4, 5, 7, 8, 9 and 12 receiving good aspects are adverse, promise gain.
+- The fifth house is Cancer. It is owned by Moon. It was in Sravanam star, governed by Moon itself. So Moon gives you the mind to speculate. Moon was in Capricorn, in the eleventh sign and the 11th Bhava. Therefore, gain without much effort is assured during its sub-period.
+- Sun Owns Leo, the 6th house. It is in its own constellation. What is the 6th house? Many, by mistake, think that it indicates only debts and diseases. They miss to note that it causes luck also. 7th house shows those who make similar attempts in speculation-your competitors. Is not the 6th house, twelve to 7? Does it not indicate loss to them? Therefore, loss to competitors means gain to you. During Sun Bhukti, you had promotion.
+- Further, Sun in 11, in Capricorn, will ever offer you success.
+- Rahu, the beneficial node, representing Jupiter was in Pisces; in your ascendant. It was in Revathi star in the constellation of Mercury who occupies the 10th house and receives the aspect from Jupiter. Mercury, as lord of 4, if it would have been in 4, 5, 7, 8, 9 or 12 to your lagna, will cause loss to you and show disappointment. But planets in 1, 2, 3, 6, 10 and 11 indicate gains to you.
+
+Moon and Sun are in 11, so as predicted during Rahu Dasa, Moon Bhukti, Sun Anthra on a day governed by Moon and when Moon transited in Rahu's star, Swathi, you received the prize. Saturn was transiting in the other constellation of Rahu-Sathabisha, and Saturn is lord of 11 and 12, showing that you will gain and make purchases or spend away.
+
+When trying to find results by transit, it is necessary to note primarily the transit of the Dasanatha, Bhuktinadha, etc. and then, of all other planets. You are running Rahu Dasa, and Rahu is transiting (according to Krishnamurti system) in Taurus, in Mrigasirisha star governed by Mars and in Saturn sub ruled by Saturn. Mars owns the second house and Saturn the 11th, so you gain. Mars owns the 9th house; Saturn rules the 12th; so you make a long journey to a holy place. Mars owns the 2nd house and Saturn owns the 12th, so you make purchases. Mars owns the 9th house and Saturn the 11th house, so you renew the friendship and enjoy your life.
+
+During the next year, such changes will not repeat. But after Rahu Dasa ends on 17-1-1966, during Jupiter Dasa, Saturn Bhukti, as already predicted, after March 1968 you will have fortune to a greater extent. As Mercury's sign Gemini is occupied by Jupiter, and Gemini is the third sign of the Zodiac, try lottery. Never go to races.
+
+## LUCK BY RACES
+The ascendant was LIBRA. There was sudden gain during the period when he was running Moon Dasa, Moon Bhukti and Jupiter Anthra, on 8th May, 1955. But the money was received on May 1955 (Monday, Jyeshta star, and in Cancer lagna).
+
+Given below are two charts, namely, the native's birth chart and the chart for the moment when he received money.
+
+![img_11.png](img_11.png)
+
+Generally it is said that houses 2 and 5 offer one the opportunity to make money by speculation, lottery, betting etc. The other houses do not indicate such sudden gains. If that is so, how can Moon in its dasa especially, in its bhukti, give gains without pains? 10th house indicates profession. Moon rules the 10th house. It also occupies its own rasi. How then has it given unexpected fortune?
+
+The prediction was based on Krishnamurti Padhdhati. A planet may own any house. It may occupy any house. But the sources of one's income and his efforts in any direction are indicated by the lord of the sub-portion in the star. Moon was in Pushyam star ruled by Saturn. Pushyam extends from 3 degrees 20 minutes to 16 degrees 40 minutes in Katak. But Moon was in 13 degree 2 minutes. If you refer to the table you will note that between 12 degrees 53 minutes and 14 degree 53 minutes in the star Pushya ruled by Saturn, Rahu rules the sub. Therefore Moon is under the sway of both Saturn and Rahu. Saturn is lord of 5 and it is in the second bhava though in the third sign Dhanus. Hence, it gives the mind to speculate. Seven planets are in the sign Scorpio and also in the second bhava. It is a truism that Rahu or Kethu will ever be stronger than the lord of the house in which they are posited and also the planets with which they are conjoined. Hence, Rahu in Vrischika is to give the results of the lord of the sign in which it was posited (which in this case is Mars), and also the results of the other planets with which it was conjoined. Rahu is stronger than the other planets in the second house and its lord, Mars. As Moon was in Saturn's star Pushyam and the sub of Rahu, Moon derives the power to give its results through the affairs indicated by the 5th and the 2nd house.
+
+When Moon's dasa was on, the planet in the Moon's star or Moon's sub could offer those results indicated by Moon. The only planet thus gaining the strength of Moon is Jupiter, which was in Scorpio (Vrischika) in its own star Visakam and in the sub of Moon.
+
+If one is to gain in a competition or in betting, the opponent will lose equally. The opponent is indicated in all horoscopes by the seventh cusp and house. Loss is indicated by the 12th house. Therefore, the 12th house to the seventh is the 6th house, to the native. Therefore, the lord of the 6th house and the planet in 6 will bring about loss to the opponent and the native will gain. Jupiter is the lord of the sixth house. No planet in Jupiter star. Hence, Jupiter and Moon alone can give this result. That is to bring about loss to the opponent and gain, suddenly to the native through betting etc., provided the dasa lord has anything to do with the fifth and the second houses.
+
+According to the Udu dasa system and according to Gochara, why should he have the beneficial result on 9-5-1955? All along, it was discussed that the planets, Moon and Jupiter, promise gains by speculation. That Swabhukti will be indifferent or bad, is generally predicted by astrologers who simply reproduce the slokas without doing research based on actual facts. It should be noted that during the time when Jupiter transits the sign ruled by the lord of dasa, the dasanatha will confer favourable results. Therefore, in the present case, at the time Jupiter transits in Cancer ruled by Moon, lucky time has to be predicted. According to Krishnamurti Padhdhati, the sub-portion should be ruled by Moon. Actually on 8th and 9th May, 1955, Jupiter was in 3 degrees 25 to 30 minutes in Cancer.
+
+One may ask why this native should not again similarly secure such a gain in Moon dasa, Jupiter sub-period and Moon or Jupiter sub-period. He is correct but hasty. He has to note whether, at that time Jupiter will transit in the sign ruled by dasanatha Moon or Bhuktinatha Guru. This position will not be repeated. But during that period, the native had larger income from his permanent possessions and improvement in service.
+
+Always the dasa system, and Gocharam, will agree. One will enjoy the results without fail if K.P. is followed. At the moment the native received the cash, the lagna was the first degree in Cancer and Moon was in Jyeshta Mercury's star in Mars sign Vrischika. The day was Monday ruled by the dasanatha Moon.
+
+## FINANCE BY BORROWING
+Loan is raised when one spends or has to spend more than what they have on hand, as well as their income. To understand why and when debt is incurred, the horoscopes are examined to ascertain how money is earned or received, the cause of one's necessity to spend, and the extent to which they must meet expenses.
+
+The second house indicates one's bank position, cash on hand, and readily cashable movable property. The tenth house shows one's profession and inheritance. The eleventh house is the balance sheet indicating one's net profit. One may earn money through the sources indicated by houses 1 to 10:
+
+- 1st house, by their exertion
+- 2nd self-acquisition
+- 3rd through brother, short journey, touring, agency, editing
+- 4th education or transport department or through mother
+- 5th through speculation, cinema, music, children
+- 6th by serving others
+- 7th by business and through partners
+- 8th by insurance, legacy
+- 9th long journey, connection with foreigners
+- 10th through their own profession, business or ancestral property
+
+The twelfth house indicates expenses. The benefits from houses 1 to 10 are added together and the loss from house 12 is deducted; the net balance is called the profit which is shown by the eleventh house.
+
+Generally, houses 2, 10 and 11 are studied to understand how one makes money. The sixth house denotes why, when, and the extent to which one borrows; it indicates either loss and misery or unexpected gains, or clearing off loan or lending money. The twelfth house indicates one's expenses, investments, repayment of loan or lending money, etc. Therefore, a careful consideration of the houses 6, 8 and 12 will indicate one's commitments, expenses, loss and the necessity to borrow.
+
+The Ascendant indicates the person who borrows. The seventh house from their Lagna denotes the gentleman or the lady or the banker who advances the loan. Sixth house denotes debts. What is a loan? It is an income to the person. Their bank position improves by borrowing. To the person lending money, the sixth house is the twelfth (seventh being their ascendant), i.e., it is a deterioration in their bank position to the extent to which they advance the loan. Therefore, debt is the receipt of money by the person who borrows and expenses to one who lends.
+
+As parting with money for expenses may be to discharge one's debts, the twelfth house of a person shows clearing off loans or part payment towards the debts already incurred. Is not the twelfth house the sixth from the seventh? Hence, to the native who borrows from this person or who receives back the loan already lent, the twelfth house indicates the receipt to the man with whom the transaction is done and who is indicated by the seventh house.
+
+Hence the sixth house indicates raising of loan (receipt of money) and the twelfth house denotes repayment of loan or expenses. Kalidasa in Uthra-Kalamritha has said that the twelfth house is to be judged for clearing off loans.
+
+What about the 8th house?
+- The 8th house is the second to the 7th. The second house shows one's finance, whereas the 7th house denotes one with whom a transaction is done. 
+- If there is an evil planet in the 8th house of a person, it means that the evil is in the second house to one who transacts, and it threatens that the person with whom the money transaction is done, will lose money and there will be difficulty. 
+- But, if a benefic is in the 8th house, it promises the regaining of money with pleasure. 
+- Everybody in this world will try to maintain prestige, and none would wish to borrow unless circumstances force him to do so. If one has borrowed, he would desire to return it much earlier than the time required by him to repay. 
+- If the sublord of 8th cusp is the significator of houses 5, 6, 8 and 12, difficulties come as a battalion and he has to face them by borrowing from his friends. 
+- But if the sublord of the 8th cusp is the significator of 2, 10 or 11 houses and if its period or sub-period runs, with pleasure, he returns the money. 
+- The tenth house shows one's profession, receipt of money, etc. Tenth house to the 7th opponent or lender is the fourth house to the native. Therefore, 4th house also indicates return of money, by the person, and the discharge of debts. 
+- The eleventh house shows profit. The principal and the interest are indicated by the 11th house in the native's chart if he has lent money. But if he has borrowed, the 11th to the 7th shows the return of the amount. Therefore 5th house indicates discharge of debts. 
+- Therefore receipt of money is indicated by the houses 2, 6, 10 and 11 whereas the discharge of debts can be read from the houses 4, 5, 8 and 12. 
+- If benefice planets occupy, own or aspect favourably the houses 2, 10 and 11, one will make money in their periods and sub periods, in their star days and week days. 
+- So also, benefics occupying the houses 4, 5, 8 or 12 or owning or aspecting these houses, or planets in the constellation of the occupants and owners of these houses indicate the discharge of the loan in their dasa, bhukti and anthara, in their week days and star days. 
+- Planets in 2, 10 and 11 and in the sub of significators of 4, 5, 8 or 12 reduce one's income and there will be difficulty to make money. Similarly, planets in 4, 5, 8 and 12 will increase the expenses if the sublord is the significator of 4, 5, 8 or 12 and they will not allow one to discharge the loan. But in their dasas and bhukties the native will suffer mental agony, anxiety, pressure, worry, depression, irritation, illrepute, humiliation etc. 
+- This is the scientific explanation for a few houses being considered for the raising of funds and the rest for repayment.
+
+Now, let us find out why one has to borrow and when.
+When the sublord of the cusp of the 6th house is also the Significator of the 12th house, debt is incurred due to:
+
+- one's ill-health or the expenses of their partner
+- unexpected loss
+- investment
+
+When the lord of the 2nd house is also the Significator of the 6th, 8th or 12th house, debt is caused by:
+
+- expenses in the family
+- medical bill for eye or throat treatment of the person
+- danger to partner
+- loss of a younger brother
+- payment to mother
+- payment to one's children at the time of their appointment or promotion
+- loan to father either for his business or to meet his loss
+
+When the sublord of the cusp of the 3rd house, or its lord is also the Significator of the 6th or 12th house, debt may be incurred due to the native's brother (if posited in a male sign) or sister (if posited in a female sign). It may be raised to help a neighbour, or one may stand surety for another, or may borrow money to make short journeys, purchase a printing press or take up any agency or contract. Some may pledge shares, certificates and documents or jewellery to raise the loan if the 3rd house is connected with the 6th house. If however houses 8 and 12 are associated, the sale of these jewels is indicated.
+
+Should the significator of the 4th house and Moon be associated with the 6th, 8th or 12th house, debt may be raised either through mother or for purchase of cattle or animals. If the significator of the 4th house and Mars are associated with the 6th, 8th or 12th house, one may borrow for the purchase of land, buildings, etc. Even raising a loan by pledging a house or land is indicated by the significator of the 4th house connected with the 6th house. The lord of the 4th house connected with the houses 3, 8 or 12 indicate generally the disposal of the property. or sister.
+
+If the lord of 6 has no connection with any benefic, but occupies the 9th house, then during the period of the lord of 4, the property may be brought to auction, sold or appropriated by the opponent.
+
+- If the significator of 5 and Jupiter are connected with houses 6, 8 or 12, debts are caused on account of children (their education or danger to their lives), or due to loss in speculation, cinema or any other risky enterprises or love affairs.
+- If the significator of 6 is associated with Saturn, debt is caused due to the persistent inimical activity of the opponents, or due to loss by theft, and disease. Jupiter connected with them indicates that the necessity for borrowing is due to litigation. Jupiter, Mars and Sun connected with them indicate debts due to election.
+- If the significator of 7 and the lords of 2 and 10 are connected with houses 6, 8 or 12, debt is due to the partner in business. But if Venus and the significator of 7 are associated with 6, 8 or 12, the debt is caused through one's wife. If Jupiter and significator of 7 are connected with 6, 8 or 12, litigation may need a large sum of money or one may borrow to meet the expenses of the second son, such as waist belts made of gold etc.
+- Should the significator of 8 be associated with the houses 1, 8 or 12, and if a malefic also aspects, debts are caused due to enemies, danger, disease, difficulties, disharmony, dispute etc.
+- If the 9th house or the significator of 9 is connected with the lords of 6, 8 or 12 or the houses 6, 8 or 12, then the necessity to borrow may be due to father, or wife's younger brother or sister (there are people who incur debt to celebrate sister-in law's marriage), or due to his partner's journey, or through the third child or the native going on a long journey or overseas or for higher studies.
+- If the significator of 10 and Sun are associated with the houses 6, 8 or 12, one may have to borrow to repay the debts left behind by father or due to business.
+- If the significator of 11 is associated with the houses 8 or 12, the debts may be due to the native's standing surety to a friend. If the significator of 11 and Mars are associated together with the houses 8 or 12, one may incur debts due to an elder brother or sister.
+
+Rahu dasa Balance: 9 years, 5 months and 18 days.
+
+When this native was running Saturn Dasa, Mars Bhukti, Jupiter Anthra he stood surety to his elder brother born in Anuradha star. Unfortunately in the beginning of December 1953, his elder brother, within a month, after the transaction passed away and the native had to return the loan through his nose.
+
+If the lord of 11 and Sun are associated with the houses 8 or 12, one incurs debt due to his father's younger brother. If the lord of 11, Jupiter and Venus are connected with the houses 8 or 12, one incurs debt due to son-in-law. Lord of 12 and Saturn generally cause loss by theft, fraud, deception, etc. and also due to the action of the secret enemies. People having Saturn in 12 and Mars or Kethu in 2, should be very careful; they should not leak out any of their secret, unlawful action, in an unguarded moment to men in power, e.g. police, Income-tax official, etc. When they run the conjoined period of Saturn in 12, and Mars or Kethu in 2, they will be taken to task. Even if Saturn is in 3, 6, or 10 it can throw aspect to the 12th house and bring about the sudden fall to the person. That is why, sages are of strong opinion that Saturn in the 10th house gives sudden rise in one's career only for a big pitfall, later. Also, lord of the 12th house may be the cause for borrowing money to celebrate the marriage of servants.
+
+So far, why one has to borrow was discussed. Now it should be understood that the planets indicating the necessity to borrow will give the results in their dasas and bhukties and also the day, the Star on that day, the Lagna, Rasi and the constellation which will be ruled by them. (The significators will form favourable aspect with their original position at the time of birth).
+
+How many persons there are who, even after borrowing need more money and suffer just like a person who having married a girl who has not attained age continues to be mostly a bachelor. Such persons, even in want, are born in the yoga termed as "Dharidhra yoga" i.e. the relative disposition of planets causing poverty. For them, it will be difficult even to raise funds. They have to make many attempts and at the time they receive money they get vexed and dejected as the amount received will not be sufficient. It will disappear in no time. It will be spent away. Such yogas are mentioned below:
+
+- If the lord of lagna is connected with the lord of 7 and if the lords of 1 and 12 are in mutual exchange.
+- When the lords of 1 and 6 exchange places and Moon is aspected by the lords of the 2nd and ~ houses;
+- Lord of Lagna in the eighth house is associated with the lord of 2 or 7.
+- The Lord of Lagna in 8 is associated with the lords 2 and 7 and a malefic;
+- The lord of 5 in 6, 8 or 12, devoid of connection with a benefit;
+- The lord of 5 in 6 or 10, aspected by the lord of 2, 6, 7 or 8 and 7. Natural malefics (without being the lords of gh and 10th houses) occupy Lagna associated by lords of 2 or 7.
+
+Dharidhra yoga means that one will continue to borrow for ever. He will have a list of those who can lend money. 5th house denotes the thought of a person. Moon indicates mind. If Moon is in 5 and is conjoined with Kethu, one will be ever planning how to raise a loan, whom to approach, etc., will somehow manage to borrow only to find that his position has not improved. This is especially true in those cases where there is no planet in 2 or 12 to Moon, and no benefic in 4, 7 or 10 when counted from the Moon sign.
+
+## FREE FROM DEBTS
+### HINDU
+Debt is also caused by the mere occupation of a rasi by certain planets and a few other connections:
+- Mars in Pisces with Sun, Moon and Saturn;
+- Mercury occupying either of the houses owned by Saturn;
+- Mercury in Taurus shows debts through relations;
+- Mars and Saturn in 12 denote debts through brothers and sisters;
+- Jupiter in 12 associated with a malefic shows that one will borrow to pay taxes;
+- Sun and Moon in 12 or Sun, Rahu and Venus in 12 show debt due to litigation;
+- Pisces, Leo or Sagittarius being the ascendant with Moon in Aquarius or Venus in Scorpio or Jupiter in the 12th house, indicate loan raised for donation, charity, endowment etc.
+
+People, who advance loans, and also borrow money due to any of the above-mentioned causes, will have the following combinations:
+- Find out the house occupied by the lord of Lagna. Note in which Navamsa sign he was at the time of birth. Find out the lord of the Navamsa sign occupied by the lord of Lagna. If the lord of the Navamsa sign occupies friend's quarter and receives aspect from Jupiter, he will lend money.
+- Find out the lords of the navamsa signs occupied by the lords of 2 and 11. If in the rasi Kundali, birth chart, the lords of the Navamsa signs occupy a Kendhra Stharra (1, 4, 7 or 10 counted from the ascendant) he will advance the loan.
+
+If you find the following yogas in the horoscope of those who want you to lend money to them, be sure that you cannot have it repaid as they can never discharge the loan before they retire from service or from the world itself:
+
+- If, in the borrower's horoscope, the lord of 2 is debilitated or eclipsed or posited at the end of a rasi governed by a malefic;
+- Or if the lord of 2 is in 6 or 12, with the lord of 12 in 2 and the lord of 11 in any one of the three Dush Sthanas 6, 8 or 12;
+- Or the lord of Lagna in 12, malefic in 2 and the lord of 10 is associated with the lord of 11. These combinations are found in the horoscopes of a few members of the co-operative societies who will ever borrow to the maximum eligibility by way of:
+  - Permanent loans
+  - Emergency loan
+  - Thrift fund loan
+  - Provident Fund
+  - Insurance loan
+  - Hand loan
+  - By pledging movable property
+  - By mortgaging immovable properties.
+
+Can one discharge the loan and be free from worry?
+
+- Find out when he will borrow; i.e., the yogas causing the need to raise a loan, the Dasa and Bhukti of those Planets.
+- Find out whether he will live long after borrowing.
+- Find out whether there will be time enough for the periods and sub periods of the planets promising the opportunity to wash off loans, after the yoga to borrow is over.
+
+Debt can be realised when one runs the beneficial periods of the planets occupying or owning the houses 2, 6, 10 and 11 and when one who borrowed money, runs the period of the Significators of 2, 6, 10 or 11 counted from his 7th house. They are 8, 12, 4 and 5 counted from the lagna of the borrower's horoscope. Benefics occupying the houses 4, 5, 8 and 12 indicates that during their periods one will clear off the debts.
+
+If one is not able to return, will he be put into trouble? Will he lose his prestige and reputation? Or will he be drawn to Civil Court and even to get imprisoned? Loss of reputation, imprisonment, etc. are threatened by the malefics posited in 2, 5, 9 and 12.
+
+If Scorpio happens to be the 5th, 9th or 12th house and Saturn be posited therein, not only will he be unable to repay, but also he may be manhandled and drawn to the court of law. His reputation will be at stake. Kalachakra dasa of the lord of the 6th house indicates similar undesirable results.
+
+Even though a person may be born a King or a Kubera, if his lord of Lagna is eclipsed, in enemy's camp, debilitated and is in 5th or 12th house associated with the lords of 2 and 7, without any association with a benefic, he must borrow. Similarly, a person born to a multimillionaire will borrow, if Sun and Saturn occupy the second house.
+
+Where to go to raise a loan, will be the problem. The direction in which one can go for borrowing money is indicated by:
+
+- the rasi in which the lord of the second house is posited,
+- or by the direction of the rasi occupied by lord of 11 and
+- by the lord whose Bhukti operates.
+
+If the above lords are in direct motion, attempts made in the direction mentioned, will be helpful. If however, the lords be retrograde one can make attempts in all directions and there will be grand success in all quarters. Suppose one is born in the sign Leo as ascendant, then the lord of 2 and 11 happens to be Mercury. When one runs Mercury sub period and it was in direct motion at the time of birth, one can meet a banker in the north as Mercury indicates north direction and he will be successful only there. Even if Mercury is in the 10th house, one should try in the north. If Mercury was retrograde at the time of birth, he can try anywhere. He is sure to come out successful.
+
+One should also consider the house (bhava) in which the lord of 1,2 and the Bhuktinatha was. If they were in the 3rd house, he may have it from his brother or neighbour and also by executing a bond. If they were in the 4th house, his close relative or one in the same locality will lend. If in the 9th house, the banker may be a stranger or one who lives far away. If in the 11th house, elder brother or sister or a friend or father's younger brother may help. If in the 10th house, either in the office or from the officer he borrow. Or one may pledge Government bonds if Mercury is in 10. If they are in the 6th house, one may take money from his subordinates as loan. The planet in the 6th house shows that one may raise a loan by pledging any of his possessions. One should judge the houses 4, 10 and 11 to redeem them: but houses 8 and 12 denote that the pledged property will be disposed of ultimately.
+
+- Consider the beneficial periods of the planets occupying or owning the houses 2, 6, 10 and 11.
+- Consider the period of the Significators of 2, 6, 10 or 11 counted from the 7th house.
+- Consider the direction of the rasi occupied by lord of 11 and the lord whose Bhukti operates.
+- Consider the house (bhava) in which the lord of 1,2 and the Bhuktinatha was.
+- Consider the planet in the 6th house to raise a loan by pledging any of one's possessions.
+- Judge the houses 4, 10 and 11 to redeem them, but houses 8 and 12 denote that the pledged property will be disposed of ultimately.
+
+Here is the sincere advice to clear off one's loans easily, with pleasure:
+
+Borrow an amount which is a little greater than the need; if you want Rs. 10,000 borrow Rs. 12,000. Keep separately Rs. 2,000 - the excess.
+
+Wait for the day when the star is either Aswini or Anuradha. Select the Lagna-Aries if it is Aswini Star day or the Lagna- Scorpio, if it is Anuradha. At the time, repay these 2,000 rupees as a part-payment. This guarantees that you will be fortunate and repay the full amount in a very short period.
+
+Or, you select either a Tuesday or a Saturday or a Sunday. On that day, the thithi should be either Chathurthi or Chathurdasi. Work out and ascertain in which sign Gulika will be on that day. If possible, calculate the correct time and repay a part of the loan at that time, so that Gulikha is exactly in Lagna. You will be surprised to see that you are able to clear the full loan in a very short period.
+
+Or select a Saturday and let the ascendant be in a movable sign, either Aries, Cancer, Libra or Capricorn. It is always advisable to have a malefic in the 8th house to the Lagna at which time the part-payment is made. Please remember that one should never lend or borrow on eclipse days when the Yoga is Vyatheepada as it threatens danger to both the borrower and banker.
+
+Now one may ask, whether by following the advice, one can clear off the loans quickly. The answer is 'Yes'. Everybody may try to repay at such a time. Only those who are lucky (according to their horoscope) to be free from the loan shortly, will repay knowingly or unknowingly at this hour. Experience confirms this declaration.
+
+### FREE FROM DEBTS (KP)
+
+![img_12.png](img_12.png)
+
+When a person is born, they inherit the assets and liabilities of their parents. As years pass, even when the parents are alive, one may save some amount or incur debts. After the demise of one's parents, one may have to borrow if the expenses outweigh the income. One may have a decent bank position for some years, then they may have to borrow. Later they may return and clear off either part of the loan or discharge it in full. All of this depends on the dasa and bhukti which follow one after the other.
+
+One deposits money in the bank when one has income more than their expenses at that time. This is indicated by the houses 2, 10 and 11. The 6th house is for borrowing and thereafter depositing. The second house is for self acquisition and bank position, the 6th house for borrowing; the 10th house means profession and the 11th house indicates profit. During the conjoined period of the Significators of 2nd and 6th one will borrow. The 8th house threatens risk, danger and loss or a windfall if the Significator of 8 is also Significator of 6th and 11th. The 12th house indicates expenses, purchases, donation, repayment of loan etc.
+
+The Lagna represents the person to whom the horoscope belongs. The seventh house denotes the persons who either lend or borrow. As loan is an income to the borrower, it is the expenses or investment to the lender which is indicated by the 12th house to the 7th house. Therefore, one has to examine the 6th house for the debts.
+
+Expenses include the discharge of loan. It may be a part-payment towards the debts or one may clear off the loans and be free from it. Bank overdraft is also indicated by the 6th house and discharging it is judged from the 12th house. In Uthra Kalamritha, Kalidas has said that one has to consider the 12th house for the clearance of loan.
+
+As the second house denotes one's financial position the second to the seventh shows the finance of one with whom the native transacts. Suppose there is a benefic in the 8th Bhava, it means that the person with whom one transacts, is lucky during the period of the planet in 8. Generally, one regains the money that is lent to others. In a few cases, it so happens that one is to consider themselves lucky, if they somehow or other have their money returned by the person who borrowed. In the latter case, the persons who borrowed will have a benefic in 8. The borrower will gain without effort. So they repay. That is why, he who lent money is lucky, during the period of the benefic in the 8th house.
+
+If circumstances force one, they borrow. Nobody would not mind maintaining one's prestige. Everybody will try to keep up their word and maintain one's family prestige honour, etc. All will make efforts to return the amount borrowed in time. They can do so, if there is a benefic in the 8th house especially the lord of 12th. The lord of 12th in 8th will cause Vipareetha Raja yoga. Suppose Jupiter is the lord of 12th, and it is in the 8th house, it can aspect one's 12th house and 2nd house. Therefore, people born in Makara-Capricorn Lagna will return their debts during Jupiter's periods and sub periods, without strain.
+
+Suppose there is an evil in the 8th house. It means that he who lends money has a malefic in the 2nd house to the 7th. As malefics in the second house threaten loss of money during its period and sub periods, one will lend money to the native of the horoscope having a malefic in the 8th house and will be depressed, disappointed and irritated during its period as the borrower is not able to return the loan. Those who lend money should note, whether the borrower has a benefic or a malefic in 8th before lending money so that they may know where they stand.
+
+- Consider the 6th house for debts
+- Consider the 12th house for the clearance of loan
+- Consider the 2nd to the 7th house to show the finance of one with whom the native transacts
+- Consider whether the borrower has a benefic or a malefic in 8th before lending money
+- During the period of the benefic in the 8th house, the person who lent money is lucky
+- During the period of the malefic in the 8th house, the person who lent money is at risk of not getting their money back
+
+These are the methods to be followed:
+
+This native is born in Libra Ascendant. Mars in Aries is in the 8th house. Jupiter owns the 8th house. Therefore, note the constellations of Mars and Jupiter. Mars rules Mrigasirisha, Chitra and Dhanishta - Jupiter governs Punarvasu, Visaka and Poorvapathrapatha.
+
+Find out the planets situated in the constellation of Mars and Jupiter; Also, note which planets are in the sub of Mars and Jupiter. They indicate (a) the necessity to borrow money, and (b) the time of raising the loan.
+
+So also note the planets occupying the constellation of the lord of 8 (Venus, a benefic) and the lord of the 12th house. Sun: Labhadhipathi, lord of 11, who is to give you profit, who is to increase your income, as it aspects the 11th house one will normally predict, that you should gain and there is no necessity to borrow. But, actually you had been borrowing. Why? Because Sun was in the constellation of Jupiter, the lord of 6 and the sub of Mercury, lord of 12. Hence during the period of Sun, you will borrow from A, and repay it, then borrow from B, repay and so on.
+
+Moon was in Mercury's star and Rahu sub. Hence, Moon indicates repayment by making money in your profession. Rahu in 11, in the constellation of the lord of 11 and in the sub of Moon, promises that you will have no debts in the conjoined period of Moon and Rahu.
+
+As you had 7 years, 11 months and 26 days of Mercury Dasa at birth, you enter into Moon dasa on 5-3-'64. Therefore between 5-8-'65 and 5-2-'67 you will repay and clear off your debts. As ‘A' dasa, 'B' Bhukti, Anthra will offer the result to the full extent, Moon anthra, in Moon dasa, Rahu Bhukti shows the time when you are free from debts, i.e., 20-11-1966 to 4-1-1967.
+
+## THEFT AND RECOVERY
+Dear Sir,
+
+You predicted in your class in Bharatiya Vidya Bhavan, Madras Kendhra on 8-11-64 that some of my jewels, silver articles, silk sarees and cash were stolen away from my house during the day time (between 8-15 a.m. and 12.30 p.m.). You took my horoscope and also asked me to give a number within 108. I told you 16.
+
+In the class, you discussed and explained and your students took notes also. You said "your property is intact. All of them will be returned to you. One male and two females are involved in the theft. You will be called to identify the property after 10-1-‘65. The thief will be black in complexion. He is a youngman. He will be caught by the police when he makes similar attempts. Be cheerful and thank God that you are lucky to have them back. I suggest you to have a "Godrej" or "Allwyn" or "Khira" Almirah in your house. Also, let me know in February or March, what happened."
+
+The thief was caught on 20-1-1965. He is a young man black in colour. He is an ex-convict. Two women were also involved. He is a dangerous K.D. Except 3 articles worth about 3 sovereigns, all the gold jewels, all silk sarees and all silver vessels etc., were recovered from him. Articles worth about 6 sovereigns were melted away by him and he made two pairs of bangles.
+
+I am glad to say that the thief was convicted and sentenced to rigorous imprisonment for four years. The stolen property worth Rs. 3,000 was handed over to me.
+
+I place on record my deep and sincere appreciation of your correct prediction about the stolen property. I thank you immensely because your uncanny prediction, boldly declared in the presence of nearly 60 students, in such a detail, gave me and my wife sufficient strength to withstand the shock when we were worried about the loss of property and with that mental strength due to the faith in your prediction, we were able to wait calmly till the thief was caught.
+
+Yours faithfully,
+
+(Sd) S. GOVINDAN
+
+The number given was 16. Therefore divide 16 by 9. Quotient is 1. Remainder is 7. Therefore the first sign Aries is over: The 7th pada in Taurus is the Lagna.
+
+Because the Zodiac is 360°, it is divided by 12 spokes. Therefore each arc is 30° in longitude. They are called Rasi: sign or solar mansion. The same Zodiac is divided into 27 equal parts; each is 13° 20'; each is called an asterism, star, constellation or Nakshathra. Each star is divided into 4 equal parts and each part called pada or quarter will be 3° 20'. Hence the Zodiac is divided into 108 equal parts. And, the number mentioned by the querist is that pada counted from Aries 0° or Mesha 0° or Aswini Nakshathra, first pada.
+
+Hence No. 16 is to be divided by 4 (four padas in each star): 16 can be divided by 4 times and the remainder will be Zero, i.e., 4 full Stars, i.e., Aswini, Bharani, Karthika and Rohini. A doubt arises whether to take Rohini 4th pada or Mrigasira first quarter. As 16th part of the 108 divisions is to be taken, take Rohini 4th quarter.
+
+One should divide the number given by the querist, in such a way, that there is some remainder, either 1 or 2 or 3 or 4. So 16 is to be divided by 4 only thrice and should have a remainder of 4. Therefore number 16 means Rohini 4th pada, i.e. 20° to 23° 20' in Taurus. The Navamsa Lagna is Cancer, a movable sign.
+
+Lagna and the aspect to either the ascendant or to the lord of the ascendant indicates whether one can have a favourable answer from the astrologer or not. Moon and the aspect of Moon indicates the nature of the query, the case of his worry etc.
+
+Taurus rises. Its ruler is Venus. It appears to be debilitated in the rasi but it is exalted in Navamsa. It is 108° away from the ascendant i.e., the aspect from the lord of the Lagna to the Ascendant is favourable. Therefore, first tell the querist that No.16 promises him "Good Luck". This is the duty of the astrologer. Then analyse, think loud, make him understand that you apply the science in full and give your prediction without any doubt. Never use the words "Likely", "May", "I think" etc.
+
+Moon is in Sagittarius, the 8th sign, in the second quarter of Moolam. This indicates litigation or theft, as the Moon is in the 7th house. The querist has already informed that he had lost his property, so it is for the astrologer to find out:
+- whether the person will have the property back or not
+- the description of the thief or thieves
+- the time when he can recover the stolen property
+
+One's possessions are indicated by the 2nd, 4th and 11th houses. The 2nd house shows the movable property, the 4th house signifies the immovable property, and the 11th house denotes one's profit and savings. Lord of 2 Mercury should indicate his readily cashable possessions and other movable properties. As the node Rahu is in Gemini (though in Lagna Bhava) Rahu, automatically becomes the agent of Mercury. Hence Rahu indicates his movable property.
+
+Sun, the lord of the 4th house, is in 6. 6th house is 12th to the 7th. Hence it indicates loss to the thief: at least no gains, no benefit to the thief by Sun who denotes permanent possession. Actually the person has not lost any property-land or building.
+
+11th house is Pisces. No planet is in Pisces. Jupiter rules the sign. It is in the 12th house. So his saving is lost, but it is retrograde. So, the loss is only for a temporary period. If Jupiter would have been in direct motion and if the 11th house is unoccupied, he can never get the lost property. A planet, in direct motion, gives a result and confirms it. A planet, in retrograde, will produce a result which will fall through when it takes direct motion.
+
+Jupiter owns two houses, Sagittarius and Pisces. Rahu or Ketu in either of the two, is stronger than Jupiter. Ketu is in Sagittarius. Therefore Ketu is stronger than Jupiter. It is ever retrograde. It is in the second sign to the seventh Cusp and is in the 7th house (i.e. Lagna of the thief. Ketu who is to represent Jupiter as lord of 2 to the 7th house is in the thief's Lagna Bhava in retrograde). Hence Ketu indicates that the thief cannot have the property as his own, for ever.
+
+Therefore, the querist will get back the stolen property, without fail. So, declare that the lost ones will surely be recovered.
+
+Similarly consider the 11th house (house of profit) to the thief i.e. 11th to the 7th. Scorpio is the 7th house. Virgo is the 11th to it. Mercury rules that sign. It is in direct motion and is in the 6th Bhava to Taurus - i.e., 12th to the 7th Cusp and 7th house. Therefore Mercury threatens that he cannot have them for ever.
+
+The description of the thief or thieves is judged from the seventh house. Scorpio is the seventh house. Its ruler is Mars. According to the Hindus, Mars aspects Scorpio. Hence Mars, a masculine planet owning the seventh house, strong in triplicity, aspecting the seventh house indicates that the thief is a male, a young man and a bold culprit. Mars aspected by Saturn, occupying Leo suggests that he will be dark in complexion.
+
+The seventh Bhava is occupied by Moon and Ketu. Rahu and Ketu will give first, the result of the planets with which they are conjoined and then only the results of the lord of the sign. As Moon is feminine, Moon and Ketu indicate two ladies. Ketu which is to indicate the results of Jupiter who owns the second house to the seventh, has actually done his work. Because, the fact is that the two women were involved in disposing a portion of the property (second house is to make money; convert into cash etc.) Therefore a young blackman and two other ladies should be the culprits.
+
+When can he have the property? To regain what one has lost is a fortune. Such fortunate results can be given only by the lord of the 11th house. The eleventh house is owned by Jupiter. So he must gain strength so that the person can have his property. At the time of query, it was retrograde. So, he cannot have them, during the period of Jupiter's retrograde motion. Jupiter becomes stationary and takes direct motion on 10th January 1965. Therefore, you cannot have it before 10-1-65, so, do not worry at all. Wait. After 10-1-‘65, you must have it.
+
+According to Krishnamurti Padhdhati Jupiter should transit in the star of the lord of the 12th house to the 7th i.e., 6th house and the sub of the second or 11th house. Jupiter, after direct motion, can transit only in the star of Venus (lord of the 12th house to the seventh) and in the sub of Mercury in Bharani star. That is, according to Nirayana system Jupiter should transit between 24° and 25°31' i.e. between 5th February 1965 and 19th February 1965. Actually you have received them only then.
+
+When can one commit theft successfully? The Conjoined period and Subperiod of the Significators of 2, 6 and 11 and not connected with 5 or 8 or 12, show that one can gain by theft successfully..
+
+## Brothers and sisters
+### HINDU TRADITIONAL ASTROLOGY
+Third house counted from Lagna, if it is not afflicted, or from Moon sign, if it is more auspicious and strong, indicates all about brothers and sisters. Third house denotes the next conception by mother: the 5th indicates the second conception: the 7th shows the third younger brother or sister and so on.
+
+"Karako Bhava Nasaya" fails miserably, as many people having Mars in the 3rd house, are born with many brothers both younger and elder. But one is to judge the 3rd house counted from the position of Mars. If Mercury, Moon, Mars and Jupiter are in 3 and 11 from Lagna or lord of Lagna there will be many brothers. Ketu therein shows sisters.
+
+The number of brothers and sisters is ascertained from the strength of the third house and its lord, the rasi and the navamsa of the 3rd house. Also it is guessed from the navamsa of the occupant of the 3rd house and Karaka, Mars. The number of sisters is found from the female planets in 9 and the brothers from the male planets in the 9th house.
+
+### Krishnamurti Padhdhati
+
+According to Krishnamurti Padhdhati it is the sublord of the cusp of a house which indicates whether the matters of the houses are positive or negative. If the sublord of the third cusp is in the constellation of a planet occupying a dual sign or it itself is in a dual sign or if the cusp receives good aspects from a planet in a dual sign (e.g., Mars from Gemini by the 8th aspect aspecting the 3rd house Capricorn where the 3rd cusp falls), then there will be plurality of brothers or sisters or both. In case of twins, when one of them happens to be a boy, the other a girl then even though according to traditional system the Lagna remains in the same sign, star and navamsa, yet to each the number of brothers or sisters will be found. Traditional Astrology cannot be helpful. Because the twin brother will have among brothers one less and among sisters one more. But the twin sister will have among brothers one more and among sisters one less. i.e., if other than the twins whose parents would have had two sons and two daughters then the twin boy will have two brothers and three sisters whereas the twin sisters will have three brothers and two sisters. Therefore, it is the cusp of a Bhava which will decide whether there will be plurality of brothers or sisters and at the same time according to KP it is not yet found possible to find out a single rule to give the number of brothers or sisters and also the sex. No doubt the research is being done by very able and intelligent astrologers at Delhi. And I am sure that it would be possible to give correctly the results which will be 100% successful. It will be published in the Magazine Astrology & Athrishta.
+
+If one is to find out the longevity of the next younger born it is advisable to take the 3rd cusp as the ascendant of the next younger and then for that locality of birth (Latitude) one is to find out the cusps of the other houses keeping the 3rd cusp as the ascendant. Then only the sublord of the 3rd cusp will vary. Otherwise when the 9th cusp indicates Father then the younger one's partner in life will also be indicated by 9th cusp (7th to 3rd). The ruling planets at the moment of the birth of father, and sister's husband or brother's wife will not be the same. So by research it has been decided that the 3rd cusp must be taken as the lagna of the younger and then for that Latitude the other cusps should be worked out. Now the 9th cusp according to one's horoscope indicates father, the 7th cusp to the 3rd (which forms the lagna of the younger) indicates the partner. Here both the results are correct.
+
+According to K.P. Significator of the 3rd house if connected with the 2nd (though 12 to 3) and also the significator of the 11th one will have co-borns.
+### No brother 
+
+HINDU:
+- Sun in Leo in 9
+- Rahu in 3 
+- Malefic in 2 
+- Saturn in 3;
+- Saturn in 9 or Ketu in 3.
+
+### DEATH OF BROTHER 
+
+Hindu: 
+
+- Lord of 3 in 6 or 8 or 12 or 2. Lords of 8 or 10 or 2 in 3 bring death to brothers while they are young.
+- Benefics in 3 or 6 or 8 or 12 to the 3rd house show their death late in life.
+
+Two brothers may be born to a person. The brother who is born with the malefic ruling planet threatening short life will die and that brother, whose ruling planet is a benefic occupying the 3rd house, will live long.
+
+K.P.:
+
+Consider the Longevity as per the dicta of K.P taking 3rd house as Lagna to Youngs.
+
+### PROSPERITY TO BROTHER
+Hindu: Count the 3rd house from Mars. If malefics occupy the 3rd from Mars, its lord and Mars are weak, it is most undesirable to one's brother. Beneficial planets in 6th show unhappiness to brothers, but malefic planets in 6th are prosperous to them.
+
+K.P.: If the sublord of 3rd is the Significator of 8th or 10th there is danger.
+
+- Benefics in 8, 9 and 10 (Adhiyoga to him); 
+- Mercury, Jupiter and Venus in 3; 
+- Jupiter in 9 or in 3; 
+- Lord of 3 in a Kendhra with a benefic
+- If Significator of 4 is also Significator of 12 and 1, brother will be lucky.
+
+### Brother to become ENEMY:
+Lord of 3 in 6 or both the lords in any manner connected with each other or Mars in 6 or 8 or 12 or lord of 1 and lord of 3 in evil aspect, occupying 6 or 8 or 12 to each other; Lord of 9 weak and adversely aspected leads to enmity.
+
+K.P.: Significator of 1 is also Significator of 3, 6 and 8; they will be enemies.
+
+### Ever friendly and inseparable
+if the lord of 9 is in its own sign receiving good aspects from the lord of 1 and forming good aspects with the lord of 3, it allows for good relationships to be maintained.
+
+K.R.: If the significator of 3 is also the significator of 11 and 1, there will be harmony.
+
+When there are many brothers, note down the planets which will cause death. When the person runs their dasa and bhukti, the brother or sister born with that planet as their ruling planet will pass away.
+
+For example, if Saturn and Rahu are in 3 and a brother is born with Saturn and Rahu as ruling planets either in Sathabhisha or on a Saturday with Rahu in the lagna or in Saturn's star Pushya, Anuradha or Uthrattadhi conjoined with Rahu, then he will pass away during the conjoined period and sub period of Saturn and Rahu. Another brother born with ruling planets not including Rahu and Saturn will live.
+
+### PARTITION
+Difficulty about property will be in the conjoined periods of lords of two, four, six, eight or twelve; but partition will take place during the conjoined periods of the significators of the houses of three, nine, twelve and four or ten.
+
+### Sorrow through brothers:
+- If the sublord of 3°d cusp is in the constellation of Jupiter in 11, or 
+- Mars in 11, aspected by Saturn, or
+- Mars conjoined with or hemmed in between malefics, it causes worry through brothers and sisters.
+
+### ACQUIRES BROTHERS
+* Lord of the 3rd house, strong and well-positioned in the constellation of the significator of the 2nd house.
+
+### Expenses through brothers and sisters 
+can be indicated by the Lord of 3, planets in 3, and planets in their constellation being in any manner connected with the Lord of 12. The person has to shoulder the responsibility.
+
+## MOTHER
+For people born during day time, the Sun represents the father and Venus indicates the mother; but for those born during night time, Saturn governs the father and the Moon rules the mother.
+
+According to Hindus, the 4th house denotes the mother; but Westerners say that the 10th house represents the mother. However, if one considers the ruling planets of one's mother and the significators of the 4th house, one will find that they invariably agree; whereas if one finds the significators of the 10th house and judges the ruling planets of one's mother, it fails. Hence one is to take the 4th house alone as that which indicates the mother.
+
+The longevity, health, finance, etc. are to be judged, taking the 4th house as the Ascendant of the mother and, as each aspect is considered to the native by counting from the Lagna, so also it should be done for the mother, from the 4th house. Beneficial aspects to the 4th house and Moon promise her health and longevity, whereas evil aspects to them will tell upon her ill health. Bhadhakasthana, Kendhradipatya, and Makarasthanas from the 4th house indicate the evil planets affecting her longevity.
+
+Houses 2, 10 and 11 counted from the 4th house (i.e. 5, 1 and 2 counted from the Lagna of the native) indicate her possessions, income, pleasure and profit; 6th from the 4th (i.e. 9th house) shows her disease, debts and difficulty. Thus, results to the mother are judged taking the 4th house as her Lagna. The position of the planets are to be counted from the 4th. The dasa, Bhpkti, and anthra ever remain the same.
+
+### MOTHER ABANDONS HER CHILD IF
+- Moon in 7 in trine to Mars and Saturn and devoid of beneficial aspect from Jupiter indicates that the mother abandons the child, who is left in a nursing home or taken away from the mother and brought up by other relatives.
+- If Mars and Saturn are conjoined together and if Moon is in 5, 7, or 9 to them, the mother abandons the child.
+- If Sun is similarly posited, the mother abandons the child.
+- Moon in Lagna, Mars in 7, and another malefic afflicting Moon threatens that the mother abandons the child, who dies later.
+- Moon in the second house and Mars as well as Saturn in 11 offer the same results.
+- If benefics aspect, then a good relative, as indicated by the benefit, takes away the child from the mother; malefics forming good aspect show that bad people take away the child.
+- The mother dies along with the child if Moon is hemmed in between malefics, occupies 1st or 7th house and 8th house, and is not aspected by benefics.
+- Saturn in Cancer is unfavourable to the mother's health and longevity.
+- Moon in Leo indicates that one will ever be obedient to his mother.
+- Moon conjoined with Mars shows that one will disobey his mother.
+- Moon in the tenth house indicates gains through the mother.
+- Saturn in 2, Jupiter in 1, and Rahu in 3 is danger to the mother.
+- Saturn in Taurus, Rahu in Gemini, Venus in Virgo, and Mars in Leo is danger to the mother.
+- Saturn in 10, aspected by Moon in 4, will prove destructive to the mother.
+- Malefic in 11 and Venus and Moon in 5 show that the mother will be unhappy.
+- Moon in 4, strong and full, Venus in 7, and Mercury in 10 show that one will have happiness through the mother.
+- One derives the qualities of the mother if Moon is stronger than Sun.
+- Lord of 12 in 2 or 4 shows an unhappy mother.
+- Saturn in 12 is danger to the mother.
+
+### HINDU
+The fateful degrees of the Moon from Aries to Pisces are as follows:
+
+- 26
+- 12
+- 13
+- 25
+- 24
+- 11
+- 26
+- 14
+- 13
+- 25
+- 5
+- 12
+
+If the Moon is in one of these fateful degrees, conjoined with malefics, devoid of beneficial aspect, or if it is in 8th house or in a Kendra position, both mother and child will die together.
+
+If the 4th cusp and Moon occupy the constellation of the significators of the 9th, 11th, or 3rd house, and if the sub belongs to Bhadhakasthanadhipati or Marakasthanadhipati, to the 4th house, the mother will be unhealthy and unhappy; she will not live long after the birth of the child. Death of mother and her longevity is to be ascertained taking the 4th cusp as the Lagna of mother and confirmed from her chart, if available.
+
+## HOUSE TO DWELL
+The fourth Bhava (house) in a horoscope signifies the permanent possessions, viz., land, building, or vehicle, the mother as well as one's education. Mahadeva in Jataka Tatwa says that a person will reside in many houses if the 4th house is a movable sign; or if its lord occupies a movable sign or the Karaka Mars is in a movable sign. It means that during the periods and sub periods of the planet in 4 which is a movable sign, one will change his residence; if the sign is fixed, but its lord is in a movable sign, the person will change his quarters; or during the period of Mars, one has to change his dwelling, if Mars were to occupy a movable sign. In Jataka Chintamani, Venkatesa says that movable signs indicate houses in many localities.
+
+"If the 4th house, its lord or Mars were to be in a fixed sign, the person will live permanently in the same house." The 4th house may be a fixed sign. So planets in 4th Bhava and in fixed signs, will not allow one to change his quarters. If the lord of the 4th house, which may even be movable, occupies a fixed sign during his period, the native cannot shift. If Mars occupies a fixed sign, the native will remain in the same house during its period.
+
+"If the lord of the 4th house is in a benefic Amsa, he will live permanently in one building" (Chap. III, SI.98 to 100.1). He says "Find out who owns the first, second and fourth houses? Note how many of them occupy either Kendhra or Kona, (Kendhra means 1, 4, 7, 10; Kona means 1, 5, 9.) Depending on the number of planets, one is to predict the number of good houses resided in and to be resided in by the person."
+
+In Jataka Parijata it is said that the acquisition of houses is to be determined from the 4th Bhava. He says: If the fiery planets, Sun or Mars, occupy the 4th Bhava and be in depression or in enemy's camp, the person will not own a house. "If the lord of the 4th house is in the 12th house, the native will live in other's houses in a foreign place." "If the lord of the 4th house is in 8," the author says, "there will be no dwelling house owned or tenanted by the native." "If the lord of the 4th house be in the 6th house, he will lodge in a house owned by uncle, cousin, etc."
+
+He adds "if the lord of the 4th house is in a Dushsthana (i.e., 6, 8 or 12) or if an evil planet occupies the 4th house, then the house owned by him will be haunted." "The lords of 2, 4 and 12 in 12 in 3, 6, 8, or 12 indicate the number of houses to be lost by the native".
+
+He encourages by saying that one will be lucky to own as many strong houses in good condition as the number of beneficial planets in the Trikonas and Kendras.
+
+Mahadeva is of the opinion that the lord of the fourth house, in combination with the lords of the sixth and eighth, causes the destruction or loss of the house. Varahamihira in Brihat Jataka says that people born with the Moon in Cancer or Virgo will own houses. It does not mean that all those born in Cancer Rasi will build houses and those born with the Moon in Virgo will own them. Here one is to note whether the Moon was in a favourable sub and constellation. Also one should note the lordship of the Moon. Otherwise, in many cases, it will not come true. But those born with the Moon in Gemini or Virgo, Libra or Scorpio, Pisces or Aries, own good houses. If the Moon is also strong and beneficial, it will give a house to the person during its period.
+
+Kalidas also has said in Uthrakalamrita that beneficial Moon and Jupiter will bless one with a house. Prithuyasas mentions that a person will acquire a dwelling house during the dasa of a planet, if the dasa commences on the day when the Moon transits in Jupiter's sign. One lives in other's houses during the period of Mercury, if it would have been debilitated at the time of birth. Also he says that persons born in Meena Navamsa live in other's houses. He is of strong opinion that people born in Meena Navamsa live in other's houses and people born in Karthikai Nakshathra will own many houses.
+
+One can have a strong house if a benefic occupies the third house and the lord of the fourth is also strong. The house will have a compound wall if there is a benefic in the third house and when the lord of the first and fourth are both strong. Thus, various authors have mentioned about the dwelling houses.
+
+### ACCORDING TO KP
+4th Bhava signifies mother, vehicle, education and building. Mars is the planet which governs buildings, Moon the mother, Venus the vehicle and Mars as well as Moon, the land. Therefore planets connected with the 4th house and Mars will indicate dwelling house. 4th house and Venus indicate conveyance; 4th house and Moon govern mother; 4th house and Mercury indicate education.
+
+So the planet occupying the 4th house or the planet in the constellation of the occupant, having connection with Mars, the lord of the 4th house, if connected with Mars, and planets in the constellation of the 4th house connected with Mars indicate buildings. If these planets are not connected with Mars, but are connected with Venus, one will have vehicle. If they have connection with Moon, the results refer to mother. If Mercury has connection, it indicates education.
+
+By connection with Mars, it is meant that a planet may:
+
+- occupy the sign owned by Mars, or
+- occupy the star ruled by it, or
+- the sub (according to Krishnamurti Padhdhati) governed by Mars, (whatever be the sign and the star.)
+
+Therefore, if one judges about one's house to dwell in, one has to consider the planets connected with the 4th house and also Mars:
+
+- The Planets occupying the 4th house (whatever be the sign) and are either in Mars star or Mars sub.
+- Planets in the constellation of such occupants,
+- Lord of the 4th house in the constellation or sub of Mars,
+- Planets in the constellation of such lords,
+- And the favourable situation of Mars to the 4th house.
+
+Acquisition of a house may be by inheritance, legacy or by purchasing one. Hence, if the fourth house receives good aspects from the lord of tenth, the native gets a building by inheritance. Here, he does not withdraw money from bank or borrow, and then buy or build.
+
+But if the fourth house has connection with the lords of first and twelfth, the native will invest the money he has, and convert liquid cash to a solid permanent possession. The second house indicates bank position, one's movable property, liquid cash, etc. The first house indicates that he makes efforts. Twelfth house shows that he spends and invests.
+
+But if the fourth house has connection with the lords of first, sixth and twelfth, one will borrow and invest or one may acquire a house through co-operative society, etc. If the lord of first is also the significator of second and sixth has no connection with Mars, one borrows money by mortgage. If the lord of first has no connection, but if the lord of fourth and lord of eighth are connected, he will sell away the property. The purchaser is represented by the seventh house; eighth house will be the second house to the purchaser. So he acquires.
+
+* If the lord of fourth is connected with the lord of twelfth and also Sun, either he loses the house by fire accident or through public auction; one uses much of wood if the planet which gives the house is connected with Jupiter. Kethu and Mars indicate that one will use well-burnt bricks; Saturn and Venus indicate cement. Saturn, Venus and Mars indicate reinforced concrete; Sun, connected with the planet offering the house, shows that the roof may be thatched and grass might have been used; Moon indicates that there will be copious supply of wholesome water; Mercury indicates that he may have twin houses or servant quarters, outhouse, etc.
+* Venus and Moon indicate that one will use lime and render it to give the appearance like marble; Mars and Venus indicate mosaic flooring; Venus gives garden, furniture glass, etc. Saturn gives air-conditioning, frigidaire, etc. Mars improves the kitchen; Venus the bedroom; Jupiter the cash- treasury room; Mercury the reading room; Saturn indicates that he may have a locker, an underground room, cellar, etc.
+
+When one lets a house to others, the Sun indicates that it will be let to a government department or government officials; the Moon for nurses, midwives, and Navy people; those who work in water supply, etc.; Mars indicates surgeons, industrialists, police, military, etc.; Mercury shows business people, agents, journalists, post office, etc.; Jupiter for banks, schools; Venus for hotels, silk shops, silver shops, for ladies; Saturn for servants, labourers, etc.
+
+That is why some people build houses and let them out for banks; some let them out for silk and silver shops; some for ‘sundry’; some for saloons, etc. This can be clearly seen in the horoscope of the native. So also one can find out that the owner of the house where one lives belongs to one particular caste or profession, or the quarters belong to the government or local body, etc. by scrutinising the position of the lord of 4, the Dasanatha and Bhuktinatha; i.e. the lords who rule the Dasa, Bhukti, Anthra, etc.
+
+The following horoscope will explain the sale and purchase of house during the different dasa that operated:
+
+- Mars Dasa Balance 1 year, 9 months 23 days. While this native was running Rahu Dasa, Rahu Bhukti, Mars sub period in the first week of July, 1912, the house belonging to his father was sold away.
+- He purchased a house on 5-11-1940, when Jupiter Dasa, Mars Bhukti, Jupiter Anthra was operating. He sold this house on 8-6-1958 during Sani Dasa, Rahu Bhukti, Sani Anthra.
+- Again on 4-7-1960 he purchased a building during Sani Dasa, Guru Bhukti, Budha Anthra.
+
+### Explanation for the
+Rahu was in the 4th house, which indicates loss of a house if one already possesses one. That is why, during Rahu Dasa, Rahu Bhukti and later in Saturn Dasa, Rahu Bhukti, he disposed off the houses. Rahu was in Rahu's star and Mars sub, which is why during Rahu Dasa, Rahu Bhukti Mars Anthra, his father sold away the house when he was young.
+
+Sani is lord of 11 and also 12, so during evil sub period the results indicated by evil house 12 will operate. During the Bhukti of beneficial planets, in Sani Dasa, beneficial results will be enjoyed as lord of 11. If a planet owns both good and bad house, one should not divide a dasa into two halves and then say first half is good, the other half is bad or first half is bad and the other half is good. But the correct method of prediction would be that during the sub of beneficial planets (not according to their nature, but judging whether one is a benefic or not, by considering its occupation and lordship) to declare agreeable results and also in the sub period of planets owning good houses counted from Lagna and occupying favourable houses counted from Lagna and Dasanatha house.
+
+During Sani Dasa, Rahu Bhukti, Sani Anthra he sold away the house on 8-6-1958 and during Sani Dasa, Guru Bhukti (in 4th Bhava) Budha Anthra (lord of 4th house) he purchased a beautiful house. During Sani Dasa, Guru Bhukti, Mars Anthra he extended the building.
+
+Future Prediction: In December 1971, he will purchase one more house during Mercury Dasa, Mars Bhukti, Mercury Anthra, sell away one in Mercury Dasa, Rahu Bhukti, Sani Anthra and have one more in Jupiter Bhukti, Mercury Anthra.
+
+Respected Sir,
+
+You will recollect that I consulted you last February 1966, regarding "Purchase of a New House". You gave appointment for only 10 minutes; within the short time, you corrected my horoscope, dasa bhukti calculations etc., and predicted that I will surely purchase a house between 4th and 7th March, 1967. You also published the details of the prediction in your Magazine April 1966 issue, and also in your Padhdhati, Volume II, page.
+
+Proper indications came, during November 1966 and I purchased a fine house bearing No. 5 at Mundakanni Amman Koil Street, Mylapore, Madras-4 and occupied the same during the period mentioned by you, i.e., by 5th March 1967.
+
+I am highly pleased to write to you this letter as the prediction given by you is found to be quite correct, and I assure you, Sir, that no other Astrologer gave such a correct and accurate prediction mentioning the date etc., nor I think any can give.
+
+In this circumstances, I would also request you to continuously conduct the lectures on every Sunday at Bharatiya Vidya Bhavan at Mylapore to enable more friends to get in touch with you, benefit through your valuable predictions, who in turn will offer correct prediction to others and be useful to the public.
+
+On this New Year's Day, we sincerely pray Lord Uchishta, Maha Ganesh to bless you and your family with long life, happiness and prosperity to enable you to continue this great service, you are now doing to the common people like me, and by introducing a new simple method of this "Krishnamurti Padhdhati" which is really very useful for us.
+
+Once again; Thanking you, Sir,
+
+Yours sincerely,
+A.V.K. MURTHY
+
+### PURCHASE OF A HOUSE
+
+![img_13.png](img_13.png)
+
+To purchase a house, one has to scrutinise the 4th house, as it indicates permanent possession, land and building, other than Vehicle, etc. The 11th house shows the gains which one can have, and the 12th house indicates the cheque to be issued in favour of one who sells the house. Therefore, one has to look to the houses 4, 11 and 12.
+
+11th house indicates the acquisition, which may be either a movable or an immovable one. Since building or land comes under immovable property, one has to judge both the 4th and 11th houses. Unless we pay, we cannot possess a house. Payment is indicated by the 12th house. So, the houses 4, 11 and 12 are to be judged.
+
+While judging the houses, we have to find out which planets occupy these houses and if so, note down the stars governed by these planets. Ascertain which planets occupy the constellation of the occupants of these houses. Whether there is any planet in such a constellation or not, note down also the occupants. Undoubtedly, the planets in their constellations are strong significators. So, note down the planets occupying the constellation and also occupying these bhavas.
+
+As you have got majority of the planets occupying the houses 11 and 12 and no planet is in the 4th house, we can very well take that those planets which occupy these houses and also which aspect these houses or rule these houses will surely bless you with a house. For people born in Capricorn (Makara) lagna, Venus (Sukra) is Rajayogathipathi. By Rajayogathipathi, one understands that one can have his desires fulfilled. Saturn who is lord of 1 and 2, can contribute to one's success and acquisition. Saturn is occupying the Constellation Poorvashada which is ruled by Venus (Sukra), who is the Rajayogathipathi and Venus at the time of birth was occupying the constellation Jyeshta ruled by Mercury (Budha), lord of 9. According to me, there will be to some extent such beneficial results similar to Darmakarmathipathiyoga (Lord of 10, occupying the constellation of lord of 9).
+
+One must note that unless the 9th or 6th house also operates, it is not possible for one to take possession of the building which one purchases. Why? The 6th house is 12th to the 7th, which denotes the person who sells. The 9th house is the 12th to the 10th (which is the 8th to the 7th). In the constellation of lord of 6 and 9, Venus is posited. Therefore, Venus is a strong significator. The lord of the 12th house is Jupiter and it is in exaltation and it is also in the constellation of Mercury which also indicates that the seller will lose his property as Mercury rules the 3rd and 12th houses counted from the 7th house. The 3rd house is Vyaya to the 4th, 4th house indicates permanent possession. Vyaya to 4th house would mean to give away land or building. Therefore, planets occupying the stars of the significators of the 3rd house are strong enough to indicate.
+
+Sukra Dasa, Sun Bhukthi, Guru Anthra will be the period when you will purchase a house and occupy it. When a doubt arises whether a particular anthra will give a result or not, the best thing would be to note down the moment at which the person puts the question. Moon is called Mathi. It indicates the mind. It gives the urge to put a question. Note where Moon is transiting at the time when the native puts the query. To-day, it is 21st February, 1966. Moon is in Aquarius (Kumba) and in Poorvapadrapada Nakshathra. Aquarius (Kumba) is ruled by Saturn and Poorvapadrapada is governed by Jupiter (Guru). Therefore, Saturn and Jupiter must rule the time when it will materialise. Again, the lagna at which you put the query is Libra (Thulam) and it is owned by Venus (Sukra). Therefore, the present moment is Thula lagna and Poorattathi Nakshathra. Therefore, Sukra Dasa, Sukra Bhukti, Guru Anthra will be the period when you will have it.
+
+But, there is another school of thought that when Moon transits in a particular position, the native puts the query and when the significators transit that particular degree the native will have that ambition realised. Now Moon is around 22 in Aquarius. Therefore, on the day when Sun or Sukra is in 22 of Aquarius, you will possess the house, i.e., around 5th March 1967. He did buy on 4-3-1967.
+
+### Disposal of a house
+
+![img_14.png](img_14.png)
+
+- Judge the second, fourth and eleventh bhavas.
+- A building is indicated by the 4th house counted from Lagna. Always count from Lagna. Never consider whether Moon sign is strong or Lagna is strong.
+- Sun and Rahu are in second bhava. Mars and Venus are in the fourth and Jupiter is in the 11th bhava. Stronger than Sun is Rahu as they are conjoined. Stronger than Jupiter is Ketu as it occupies the sign ruled by Jupiter. Further, Ketu is to give the results of Sun as it is aspected by Sun. Mars and Venus show matters connected with buildings as they are in 4th house.
+- Rahu's stars are Arudhra, Swathi and Sathabisha. Sun alone is in Arudhra. Ketu governs Aswini, Makam and Moolam. Moon and Ketu are in Aswini and Moolam. Mars rules Mrigasira trine stars-no planet in any. Venus governs Bharani trine stars-no planet in any of the three stars.
+- Venus owns 2nd house: Moon 4th house and Saturn 11th house. No planet is in any of the three stars of Venus: None in the three stars of Moon. But in the constellation of Saturn, Mercury is in Pushya. Saturn in Anuradha and Jupiter in Uthrapathrapada. Hence, Mercury, Saturn and Jupiter are for offering the results indicated by 11th house.
+- Therefore, Moon (in Kethu's star who represents Jupiter, strong in his own sign, occupies 11th bhava and is in the constellation of lord of 11 Saturn) Ketu, Saturn, Rahu are the strong significators to acquire own house; to occupy a new premises, etc.
+
+For disposal, study the houses 3, 5 and 10. Mercury is in the V house; no planet occupies 5 or 10. Mercury's stars are Ashlesha, Jyeshta and Revathi. Ashlesha is occupied by Mars and Venus.
+
+* Lord of 3 is Mercury; lord of 5 is Sun and lord of 10 is Saturn.
+* Mars and Venus are in Mercury's star; none in Sun's star; Saturn, Mercury and Jupiter are in Saturn's star. Hence, Mars, Mercury, Saturn, Venus and Ketu are strong significators.
+* Further, one can judge in the following manner. Saturn as lord of 10 has the effect to cause the sale. Moon, representing Ketu (as Moon was in Ketu's star) in its dasa offered a building, as Ketu denotes 11th bhava results. Mars, under the sway of Mercury, as it was in Ashlesha, causes sale of a house in its dasa.
+* Hence, in Mars Dasa, Saturn Bukthi, Mercury Anthra, you will enter into an agreement and during Mars Dasa, Saturn Bhukti, Venus Anthra you will hand over the possession on a Dhanishta or Anuradha star day. You can receive advance in the beginning of March 1967 and finish the sale deed by June 1967.
+* As Mars is in the constellation of lord of 11 during Mars Dasa, there can be no desperate sale, but you will make up satisfactorily.
