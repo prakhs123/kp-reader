@@ -4,7 +4,7 @@ from pytesseract import Output
 import argparse
 import re
 
-pdf_path = "../pdf/J_KP reader_3_Predictive Stellar Astrology.pdf"
+pdf_path = "../pdf/Krishnamurti-Padhdhati-Vol-3 - English.pdf"
 
 parser = argparse.ArgumentParser()
 parser.add_argument('first_page', type=int, help='The first page number')
@@ -52,46 +52,51 @@ def add_newline_where_necessary(alist):
     return alist
 
 
-pages = []
-for image in images:
-    ocr_dict = pytesseract.image_to_data(image, lang='eng', output_type=Output.DICT)
-    # ocr_dict now holds all the OCR info including text and location on the image
-    texts = [c.strip() for c in ocr_dict['text']]
-    # strip texts after line
-    found_index = -1
-    for index, s in enumerate(texts):
-        if s and re.match(r'[a-z.,0-9]', s[-1]):
-            if len(texts) > index + 3 and texts[index+1:index+4] == ['', '', '']:
-                found_index = index
-    filtered_texts = texts
-    if found_index != -1 and found_index > 20:
-        filtered_texts = texts[:found_index+1]
-    pattern = ['', '', '']
-    chunks = split_list_by_pattern(texts, pattern)
-    final_chunks = []
-    # print(chunks)
-    for chunk in chunks:
-        filtered_chunk = remove_first_two_empty_strings(chunk)
-        filtered_chunk_2 = add_newline_where_necessary(filtered_chunk)
-        filtered_chunk_3 = [c for c in filtered_chunk_2 if c != '']
-        if filtered_chunk_3 and not filtered_chunk_3[0].isnumeric():
-            final_chunks.append(filtered_chunk_3)
-    # print(final_chunks)
-    if final_chunks[-1] and final_chunks[-1][-1].isnumeric():
-        final_chunks = final_chunks[:-1]
-    pages.append(final_chunks)
+def run():
+    pages = []
+    for image in images:
+        ocr_dict = pytesseract.image_to_data(image, lang='eng', output_type=Output.DICT)
+        # ocr_dict now holds all the OCR info including text and location on the image
+        texts = [c.strip() for c in ocr_dict['text']]
+        # strip texts after line
+        found_index = -1
+        for index, s in enumerate(texts):
+            if s and re.match(r'[a-z.,0-9]', s[-1]):
+                if len(texts) > index + 3 and texts[index+1:index+4] == ['', '', '']:
+                    found_index = index
+        filtered_texts = texts
+        if found_index != -1 and found_index > 20:
+            filtered_texts = texts[:found_index+1]
+        pattern = ['', '', '']
+        chunks = split_list_by_pattern(texts, pattern)
+        final_chunks = []
+        # print(chunks)
+        for chunk in chunks:
+            filtered_chunk = remove_first_two_empty_strings(chunk)
+            filtered_chunk_2 = add_newline_where_necessary(filtered_chunk)
+            filtered_chunk_3 = [c for c in filtered_chunk_2 if c != '']
+            if filtered_chunk_3 and not filtered_chunk_3[0].isnumeric():
+                final_chunks.append(filtered_chunk_3)
+        # print(final_chunks)
+        if final_chunks[-1] and final_chunks[-1][-1].isnumeric():
+            final_chunks = final_chunks[:-1]
+        pages.append(final_chunks)
 
-final_chunks_across_pages = []
-current_text = ''
-for i, page in enumerate(pages):
-    if i != 0 and page[0][0][0].isupper():
+    final_chunks_across_pages = []
+    current_text = ''
+    for i, page in enumerate(pages):
+        if i != 0 and page[0][0][0].isupper():
+            final_chunks_across_pages.append(current_text)
+            current_text = ''
+        raw_page_text = consolidate_page(page)
+        current_text += '\n' + raw_page_text
+
+    if current_text:
         final_chunks_across_pages.append(current_text)
-        current_text = ''
-    raw_page_text = consolidate_page(page)
-    current_text += '\n' + raw_page_text
+    for chunk in final_chunks_across_pages:
+        with open(destination_txt_path, "a") as f:
+            f.write(chunk)
 
-if current_text:
-    final_chunks_across_pages.append(current_text)
-for chunk in final_chunks_across_pages:
-    with open(destination_txt_path, "a") as f:
-        f.write(chunk)
+
+if __name__ == '__main__':
+    run()

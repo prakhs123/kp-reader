@@ -31,9 +31,23 @@ with open(txt_file_path, "r+") as f:
 
 chunks = text.split('\n\n')
 
+
+def join_chunks(string_list, X):
+    i = 0
+    while i < len(string_list) - 1:
+        if len(string_list[i])/4 < X and len(string_list[i+1])/4 < X:
+            string_list[i] = string_list[i] + '\n' + string_list[i+1]
+            string_list.pop(i+1)
+        else:
+            i += 1
+    return string_list
+
+
+# new_chunks = join_chunks(chunks, 400)
 for chunk in chunks:
     print(len(chunk)/4)
-    if len(chunk)/4 > 1000:
+    if len(chunk)/4 > 1800:
+        print('ALERT')
         print(chunk)
     print('-'*100)
 
@@ -42,14 +56,14 @@ def make_request(chunk):
     # Make request to API
     response = openai.Completion.create(
         model="text-davinci-003",
-        prompt="Correct this to standard English, fix OCR errors and output in markdown format without headings (no #),"
-               " and convert numbering to bullet points only if the numbering is present in the text,"
-               " otherwise output in paragraphs:\n\n" + chunk,
+        prompt="Correct this to standard English, fix OCR errors, correct numbering and "
+               "output in markdown format"
+               f"\n\nINPUT: \n\n {chunk}\n OUTPUT:\n",
         temperature=0,
-        max_tokens=2000,
-        top_p=1.0,
-        frequency_penalty=0.0,
-        presence_penalty=0.0
+        max_tokens=int(len(chunk)/4) + 500,
+        top_p=1,
+        frequency_penalty=0,
+        presence_penalty=0
     )
     return response
 
@@ -80,3 +94,4 @@ with open(md_file_path, "a") as fout:
         else:
             print(response)
             sys.exit(1)
+        time.sleep(3)
