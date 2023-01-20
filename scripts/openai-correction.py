@@ -60,7 +60,7 @@ def make_request(chunk):
                "output in markdown format"
                f"\n\nINPUT: \n\n {chunk}\n OUTPUT:\n",
         temperature=0,
-        max_tokens=int(len(chunk)/4) + 500,
+        max_tokens=(int(len(chunk)/4) + 300) if (int(len(chunk)/4) < 1500) else 2096,
         top_p=1,
         frequency_penalty=0,
         presence_penalty=0
@@ -70,7 +70,7 @@ def make_request(chunk):
 
 with open(md_file_path, "a") as fout:
     for chunk in chunks:
-        max_retries = 2
+        max_retries = 5
         retry_delay = 2
 
         for i in range(max_retries):

@@ -1,4 +1,4 @@
-## About the Author
+# About the Author
 The author of this book, (Late) Professor K.S. Krishnamurti, was born on 1st November 1908 at Thiruvaiyaru in Tanjore District, Tamilnadu. After his successful schooling, he graduated from St. Joseph College, Trichy in 1937. He moved to Chennai in 1941 and joined the Government Service as a Sanitary Inspector. During this period, he developed an interest in occult science and studied in depth the available literatures on Indian and Western Astro-Science. He observed that the predictive principles enunciated in those books were very general, ambiguous, and full of alternatives, and even if properly applied, never pinpointed precisely the nature and time of the event in question. This prompted him to vow to find a solution to make Astrology a perfect science, revive its fair name and reputation, and restore its importance and utility to mankind.
 
 He started collecting numerous horoscopes including twin births for study and analysis. He spent more than thirteen years in research work and finally succeeded in discovering a unique formula of his own, which could be applied universally to Natal/Annual/Horary horoscopes to predict events very accurately. He verified his new found ‘Stellar’ and ‘Sub’ theory for its accuracy by applying it on various horoscopes including twins and got fully convinced himself. He titled his discovery as ‘Krishnamurti Padhdhati’.
@@ -13,7 +13,7 @@ Sri K.S. Krishnamurti had written and released six books styled “Krishnamurti 
 
 After passing away of 'Guruji' (as Prof.K.S.K. was then called with reverence) in March 1972, his son Sri K. Subramaniam, who was groomed by his father, took over the editorship of ‘Astrology and Athrishta. He successfully ran the magazine until 1994, after which it was converted to a yearly publication instead of a monthly one. Further, with a view to propagate the K.P. System effectively, he established his own Publication company, Krishman & Co, at Chennai, through which he published not only Prof. K.S.K's readers periodically but also many books written by himself and by other eminent present day K.P. Astrologers.
 
-## KRISHNAMURTI SYSTEM
+# KRISHNAMURTI SYSTEM
 
 DIVISION OF ZODIAC :  
 The Zodiac is divided into twelve equal parts; each division is called a Solar mansion (or Rasi or Sign). They are:
@@ -33,13 +33,13 @@ The Zodiac is divided into twelve equal parts; each division is called a Solar m
 
 The Hindus have another division also. The Zodiac is divided into twenty seven equal parts, each measuring 13°-20’. They commence from Aries 0° and end by Pisces 30°. The 27 divisions are called Lunar Mansions (Nakshatras, Asterisms, Stars Constellations). They are called Ashwini, Bharani, Krithigai, Rohini, Mrigasira, Arudra, Punarvasu, Pushyami, Aslesha, Makha, Pubba, Uttara, Hasta, Chitta, Swati, Visakha, Anuradha, Jyestha, Moola, Poorvashada, Uttarashada, Sravana, Dhanishta, Satabhisha, Poorvabhadrapada, Uthrapathrapada and Revathi.
 
-![img.png](img.png)
+![](img.png)
 
 The explanation that can be offered why they have taken 9 planets and divided the Zodiac into 27 Nakshatras is as follows: The Zodiac is 360° in Longitude. What is the sanctity in the number 360? Probably, Sun moves in between the stars, in its path the Ecliptic - daily on a average about 1/360° of the circle. So, every day in 24 hours Sun moves 1°. Further, 360 is divisible by 1, 2, 3, 4, 5, 6, 8, 9 and 10 when it will be easy for other calculations. It is first divided into 3 equal parts of 120° each. The four signs Aries, Taurus, Gemini and Cancer make up 120° in the segment AEL. The next four signs Leo, Virgo, Libra and Scorpio form 120° and they are in the segment LES; Sagittarius, Capricorn, Aquarius and Pisces are the last 4 signs in the segment SEA measuring 120° (A is Aries 0°, S is Sagittarius 0° and E is earth).
 
-![img_1.png](img_1.png)
+![](img_1.png)
 
-![img_2.png](img_2.png)
+![](img_2.png)
 
 All planets moving from the point A (Vernal Equinox) Aries (Mesha) according to Nirayana System get their results modified as they move in the Zodiac.
 * In the first 13°-20’ i.e. 0 degree to 13°-20', and planet transiting in Mesha (Aries) will be influenced by Kethu, and the constellation is called Ashwini. 
@@ -88,7 +88,7 @@ They were aware that the stars are not equally elongated from 0° to 13°-20' an
 
 A few of them are in the Zodiac itself but the majority of the groups are around the constellations which are named after these groups. These stars (constellations) may be very close to the 27 divisions of the Zodiac or far away, and they may be either to the North or to the South of the Zodiac. A few groups are very near and in the next constellation and yet they are chosen because they can be identified easily and they will be useful for reference and calculation to locate where a particular constellation would commence and end in the Heavens; further, there is no other constellation within or near the zone which can be unmistakably identified. Therefore, these 27 stars are to guide us, so that we can calculate and ascertain the position of the 27 zones in the Zodiac, each measuring 13°-20’.
 
-![img_3.png](img_3.png)
+![](img_3.png)
 
 These 27 constellations are governed by the nine planets. Hence, each planet rules over three zones at an interval of 120° (e.g. Kethu - Aswini, Makam, Moolam; Venus - Bharani, Pooram, Pooradam, etc.). These zones modify the results of the planets transitting the Zodiac and not the stars, scattered in the Heavens which are far, far away. Planets are the immediate neighbours of our Mother Earth and these belong to one family. 
 
@@ -101,7 +101,7 @@ If a person walks outside the circular verandah looking at the light inside, the
 
 Suppose a railway guard shows the light, it may be plain or green or red according to the background mirror. Similarly, imagine that the mirror used behind the bulb is the lord of the sign. It may be clear and it may illuminate to a maximum or it may be dull, rendering the light weak. The strength and modification of the colour depends on the mirror behind the bulb (which is the reflector) which denotes whether a planet is exalted and strong or debilitated and weak.
 
-![img_4.png](img_4.png)
+![](img_4.png)
 
 Also suppose one coloured slide is inserted between the torch light and the observer. This colour depends on the lord of the constellation "C" when 'P' is the planet (which is the bulb). Therefore, the results of a planet in different positions in the Zodiac, in different signs and different constellations, is similar to the light from the torch getting modified and the resultant becoming absolutely different from the original light, unless all the colours are similar to that of the planet.
 
@@ -145,19 +145,19 @@ The longitude of each constellation is 13°- 20’ equal to 800 minutes. Therefo
 
 Eventhough the area allotted to each planet is the same in each star, yet the order in which they occupy the constellation differs. To note the order, one has to find out which planet rules the constellation, then the beginning of the constellation is used by the lord of the star, just like in any dasa, the first sub period or bhukti is ruled by the dasa lord. The second sub is ruled by the Bhukti lord who will follow the dasa lord. Then in the same cycle order the subs will be ruled as in the bhukthi. 
 
-![img_5.png](img_5.png)
+![](img_5.png)
 
 If the star is Karthika, note the lord of the star. It is Sun. Hence, allot the first sub to Sun. In the cyclic order, who will follow Sun? It is Moon. So the second sub is given to Moon, the third to Mars, the fourth to Rahu and so on, till the last sub is governed by Sukra.
 
-![img_6.png](img_6.png)
+![](img_6.png)
 
 If the star is Punarpoosam, otherwise called Punarvasu, the first subdivision is governed by Jupiter; next by Saturn and the last by Rahu.
 
-![img_7.png](img_7.png)
+![](img_7.png)
 
 If the star is Pushya, the lord is Saturn. Therefore, the first sub is governed by Saturn, the second sub is ruled by Mercury, the third is allotted to Kethu and so on till the last sub is under the sway of Jupiter. 
 
-![img_8.png](img_8.png)
+![](img_8.png)
 
 If the star is Ashlesha, otherwise called Ayilyam, the first subdivision is governed by Mercury, the next by Kethu and so on, till the last subdivision is allotted to Saturn. Thus all the twenty seven stars are divided among the nine planets. 
 
@@ -184,11 +184,11 @@ A few stars are called by different terms. They are:
 
 The other 11 stars are called by the same name.
 
-## CONSTELLATIONS AND THEIR SIGNIFICANCE
+# CONSTELLATIONS AND THEIR SIGNIFICANCE
 
 Each star is divided into 4 equal divisions. Each part is called either pada or quarter =3°-20'. Half of a star = 6°-40’. When a constellation commences in one sign and extends in the next succeeding one, it is mentioned as ‘a’ and ‘b’. The numeral number given for each star is the number of the star in the 27 constellation starting from Aswini.
 
-![img_9.png](img_9.png)
+![](img_9.png)
 
 1. Aswini : 0° Aries to 13°20’ Aries (Mesha). The first constellation. The sign Aries is ruled by Mars and the constellation is governed by Kethu. Hence, this zone indicates the following matters in general:
 * Part of the body: Head, Cerebral hemispheres.
@@ -757,7 +757,7 @@ Between 3°-20' and 16°-40' in Cancer. Sign ruled by Moon and star governed by 
 - Mental qualities: Vacillation, indecisive, flexible, and impressionable mind, intuitive, human sympathetic, shrewd, clever, religious and philosophical, ripe judgement, fruitful mind, honest and honourable, studious, mental balance, sober, proficient and competent, honest, caring more for integrity.
 - Profession: Publisher, editor, religious, legal, civil engineering departments, Share broker, advertisement, publicity, propaganda, communications, lawyer, judge, professor, politician, ambassador, representative, telephone, typewriter, radio, tape-recorder, currency notes, international trade, messengers, embassy, accountant, auditor, trustee, governor, university, employment exchange, newspapers, clerk, shipping, import, export, excise, customs, harbour, port trust, religious head-purohits, preachers, industry, finger print expert, successful diplomats, astrologer, mathematician, broker, agent, bank, etc.
 
-## What each star signifies to each Lagna or Rasi borns
+# What each star signifies to each Lagna or Rasi borns
 
 Normally, when we judge a horoscope, we prefer to follow the Vimshottari system and also include the Gochara (Transit). We judge the lord of the dasa, and consider him to be either favourable or not,
 
@@ -780,7 +780,7 @@ Hindus classify and call a planet to be good or bad according to its lordship of
 
 A father is good to his son. He may occupy a good position, say (exalted) judge; so a Sagittarius-born is confident that he will escape, whatever crime he commits. During Venus dasa the son forges a document... The case is posted under his own father. He regrets saying that his hands are tied up by the law and he punishes his own son. Sun may be a benefic by owning 9th house. It gets exalted and is in a kona. It has to do good. But during Sun dasa Kethu Bhukthi Mars anthra, the native is punished as Sun was in Aswini Star whereas Mars and Kethu were in 9. Kethu is to give the results of Mars which owns 12th house imprisonment. Therefore, the sub divisions and the stars are to be classified as good or bad: Planets cannot overrule the indications of the lord of the star and sub.
 
-### ARIES BORNS
+## ARIES BORNS
 Aswini, Makam, Moolam: Stars are ruled by Kethu. As Kethu does not own any house, find out the planets with which it was in conjunction or by which it is aspected or the sign and constellation in which Kethu was at the time of birth. If it is not conjoined with or aspected by any planet, the results of the lord of the constellation and sign will be experienced if a planet was in any of these three stars at the time of birth or during transit in one's life time.
 
 Bharani, Pooram, Pooradam: Venus is the ruler of the three stars. As Venus owns the second and seventh houses to Aries, the results of these two houses, i.e. second and seventh are to be predicted if any planet occupies these stars or transit in these. If Venus, at birth occupied a sign favourable to both Taurus and Libra, both the houses will be represented by Bharani trine. If Venus at birth occupied 6 or 8 or 12th sign to either Taurus or Libra and if Venus improves the matters of either of the two houses and is weak to offer the results of another house, planets occupying these stars or transiting in these stars will give such results as is denoted by Venus.
@@ -799,7 +799,7 @@ Pushyam, Anuradha, Uthrattathi: Saturn is allotted these three stars. If a plane
 
 Ashlesha, Jyesta, Revathi: Mercury who is the lord of the 3rd and 6th houses to Aries rules over these stars. Foretell the results of the 3rd and 6th houses when a planet is therein at birth or when a planet transits in these stars, whenever a particular planet transits in a particular sub in a star, the same nature of results will be experienced through the same or similar sources, the extent depending on the dasa then running.
 
-### Taurus Borns
+## Taurus Borns
 
 Aswini, Makam, and Moolam are ruled by Kethu, who does not own any sign in the Zodiac. Find out with which planet Kethu is conjoined or which planet aspects Kethu; also the sign and constellation where Kethu was at the time of birth. You have to offer the results according to the lord of the constellation and the sign which Kethu occupied if it is not conjoined with or aspected by any, if a planet were to occupy one of these three stars or transit in any of these three stars to Taurus borns.
 
@@ -819,7 +819,7 @@ Pushyam, Anuradha, and Uthrattathi are governed by Saturn who owns the 9th and 1
 
 Ashlesha, Jyesta, and Revathi are ruled by Mercury owning houses 2nd and 5th to Taurus borns. The native will experience the results signified by these houses, if a planet occupies any of these stars at birth or when a planet moves on in these three stars. Suppose Moon was is Jyeshta. Moon is lord of 3rd. It has nothing to do with children. But if a person has a child in moon sub-period, in Hastham Star, which are we to take: either the sign lord or the star lord or the house it owns or occupies.
 
-### Gemini borns
+## Gemini borns
 
 Kethu owns the stars Aswini, Makam, and Moolam, but it has not been allotted any sign. Find out the star and house where Kethu was at birth, the planets conjoined with it, or the planets aspecting it. If a planet occupies these stars at birth or in transit, offer the predictions signified by the lord of the constellation and the sign where Kethu was.
 
@@ -841,7 +841,7 @@ Pushyam, Anusham, Uthrattathi are owned by Saturn, the slow-moving planet, who o
 
 Ashlesha, Jyesta, Revathi are ruled by Mercury, lord of 1 and 4, who owns these three stars. The native will enjoy the results signified by these houses if a planet occupies or transits these stars.
 
-### Cancer Borns
+## Cancer Borns
 
 Ketu or Dragon's tail govern the stars Aswini, Makam, Moolam. Ascertain which sign and constellation Ketu occupies or transits in the horoscope. The results will be indicated by the lord of the constellation and sign. These will be experienced by Cancer borns if a planet occupies or transits these stars.
 
@@ -861,7 +861,7 @@ Pushyam, Anuradha, Uthrattathi: Saturn the delaying planet owns the houses 7 and
 
 Ashlesha, Jyesta, Revathi: Mercury is the ruler of these stars. It also owns the 3 and 12" houses to Cancer borns. If a planet passes in these stars, the results indicated by the houses 3 and 12 will be enjoyed. For instance, Revathi is in the 9” sign. But if a planet occupies this star at birth or transits, the native will enjoy the results of the 3 and 12" houses and not the results indicated by the 9" house. (That is why people born in Karkata lagna do not enjoy favourable results during the period of the planets in 5 or 9 as the lord of the constellation in these signs are ruled by either lord of 6 or 8 or 12. But they are fortunate during the period of the planets in the constellation of Mars eventhough the houses may be 3 or 8 or 12).
 
-### Leo Borns
+## Leo Borns
 
 Aswini, Makam, Moolam stars are ruled by Kethu, the Moon's node. As it does not own any sign, note the planets which are conjoined with it or aspect it and also the lord of the constellation in which it is. The results signified by the planet with which it is conjoined or by which it is aspected or lord of the constellation will be experienced by the native if a planet transits through these stars.
 
@@ -881,7 +881,7 @@ Pushyam, Anuradha, Uthrattathi: Saturn lord of 6th and 7th is the owner of these
 
 Ashlesha, Jyesta, Revathi: Mercury, lord of 2nd and 11th, owns these three constellations. So the results signified by the houses 2nd and 11th will be enjoyed by the native when a planet transits in any of these stars. For instance, Revathi is in the 8th sign. Normally, planet in the 8th sign will not produce desirable results to the native. Yet, as Revathi is ruled by Mercury, the native receives even the bad debts, becomes popular in his society and realizes his ambitions during the sub-period of the planet in Revathi stars, as Budha owns the houses 2nd and 11th.
 
-### Virgo Borns
+## Virgo Borns
 
 Aswini, Makam, Moolam: Find out where Kethu was at birth, i.e. the constellation, and the sign it occupied, as it does not own any sign. The results signified by that constellation and sign will be enjoyed by the native when a planet transits in any of these three stars.
 
@@ -901,7 +901,7 @@ Pushyam, Anuradha, Uthratiathi: Saturn rules over these three stars, who also ha
 
 Ashlesha, Jyesta, Revathi: Lord of 1st and 10th Mercury is the owner of these stars. Planets in any of these three stars in whichever sign it may be, will offer the results indicated by the 1st and 10th houses to the native. It is very good.
 
-### Libra Borns
+## Libra Borns
 
 Aswini, Makam, Moolam, which are governed by Cauda (otherwise known as Kethu), do not own any sign in the Zodiac. Ascertain in which constellation and sign Kethu is in the chart. The results indicated by the lord of the constellation where Kethu was will be experienced by the native.
 
@@ -921,7 +921,7 @@ Pushyam, Anuradha, Uthrattathi: Stars are allotted to Saturn, the only benefic t
 
 Ashlesha, Jyesta, Revathi: Budha, the wavering planet, governs over these three stars and also the houses 9 and 12 to Libra-borns. You will find that these stars fall in the 2nd, 6th and 10th signs, but the native will experience the results of the 9th and 12th houses only.
 
-### Scorpio-borns
+## Scorpio-borns
 
 Aswini, Makam, Moolam: As the descending node (Kethu) does not own any sign but rules only these stars in the Zodiac, find out the planets that are conjoined with Kethu, aspecting Kethu and constellation and sign where it was at birth. The results signified by the lord of the constellation and sign will be enjoyed by the native, in whichever sign the stars may be.
 
@@ -941,7 +941,7 @@ Pushyam, Anuradha, Uthrattathi are governed by Saturn. Houses 3rd and 4th also a
 
 Ashlesha, Jyesta, Revathi: Mercury is the ruler of these three stars and owns the 8th and 11th houses to Scorpio-borns. If you find a planet in the stars ruled by Mercury, you have to portend the results indicated by the 8th and 11th house to the native forgetting the sign in which it is. It is very bad in the ascendant.
 
-### Sagittarius - Born
+## Sagittarius - Born
 
 Aswini, Makam, and Moolam were given to Dragon's Tail (Kethu) by our ancients, but they did not allot any sign to it then. Find out the sign and constellation where Kethu was at the time of birth or during transit. The results of the lordship of the star and sign where Kethu was will operate if a planet is in Aswini, Makam, or Moolam.
 
@@ -961,7 +961,7 @@ Pushyam, Anuradha, and Uthrattathi; Saturn rules these three stars. Saturn owns 
 
 Ashlesha, Jyesta, and Revathi are governed by Mercury, who owns the houses 7 and 10 to Dhanur rasi-borns. Results indicated by the 7th and 10th houses will be enjoyed by the person if a planet occupies these stars at birth or during transit and not the results indicated by the sign it occupies where these stars are posited. Planets in Jyesta give promotion, transfer, and position. It also indicates severing connection with one institution and accepting a better job in another institution.
 
-### Capricorn - Borns
+## Capricorn - Borns
 
 Aswini, Makam, and Moolam are governed by the descending node Kethu. Find out the lord of the constellation and sign which Kethu occupies. What Kethu promises to do, will be done by the planet which occupies its star or which transits in any of the three stars.
 
@@ -983,7 +983,7 @@ Pushyam, Anuradha, and Uthrattathi stars governed by Saturn also rules the 1st a
 
 Ashlesha, Jyesta, and Revathi: Mercury is given these stars and also houses 6th and 9th. Planets in the stars of Mercury give the results of the 6th and 9th houses. For example, Jyesta is in the 11th Sign. If a planet moves on in this star instead of enjoying the results indicated by the 11th house, the native will have the results of the 6th and 9th more prominently.
 
-### Aquarius-borns
+## Aquarius-borns
 
 - Ashwini, Makam, Moolam stars are governed by Kethu, who does not own any sign in the Zodiac. Find out in which constellation and sign Kethu is. Judge what Kethu can do; that will be given by the planet in any of the three stars.
 - Bharani, Pooram, Pooradam: Venus governs over these stars, which also rules over the 4th and 9th houses. When a planet occupies any of these stars at birth or during the transit, the native should be offered the results indicated by the 4th and 9th houses only.
@@ -995,7 +995,7 @@ Ashlesha, Jyesta, and Revathi: Mercury is given these stars and also houses 6th 
 - Pushyam, Anuradha, Uthrattathi: Saturn, lord of 1st and 12th, happens to own these stars. Results denoted by the 1st and 12th house will operate if a planet occupies at birth or transits in the three stars governed by Saturn.
 - Ashlesha, Jyesta, Revathi: Mercury, lord of 5th and 8th, rules over these stars. Results of the 5th and 8th houses also should be predicted to the native if a planet passes through them. For example, Revathi is in the 2nd house. General prediction of the results if a planet transits in the 2nd house will do good to native does not operate but the results of 5th and 8th, i.e. mixed ones will be experienced, when a planet moves on in Revathi.
 
-### Pisces-borns
+## Pisces-borns
 
 Aswini, Makam, and Moolam are ruled by the descending Node. Kethu, who does not own any house in the Zodiac, has to be ascertained by its occupation in the constellation. The results denoted by the lord of the constellation and sign where Kethu was at the time of birth will predominate.
 
@@ -1017,7 +1017,7 @@ Ashlesha, Jyesta, and Revathi are governed by Mercury. Mercury owns the 4th and 
 
 Always judge who is the Lord of the constellation and note to the native what it can offer. Those results indicated by the lord of the constellation will be enjoyed during the period of the planet in that constellation and whenever a planet transits in that star, through the source indicated by the planet in the star.
 
-## ROLE OF SUB
+# ROLE OF SUB
 
 Sign: A sign is one of the 12 equal divisions of the zodiac. Each sign has its own characteristics and the planets occupying such signs offer results modified by the characteristics of that sign. The strength of planets is judged by noting the sign occupied by it - whether it gets exalted or debilitated; whether it is Swakshethra or Vargothamamsa or in friendly quarters or enemy's camp, etc. The planet in a sign is the source of the result which it bestows according to the lord of the constellation in which the planet was tenanted. The nature of the results which the planet gives includes whether the planet is in a positive or negative sign; in a fiery or earthy or airy or watery sign; in a movable or fixed or common sign, in a fruitful or a barren sign; in mute or voice sign; in violent or human sign; in a bestial or dual sign etc. All these must be taken into consideration before judging what a planet can do. The Rasi occupied by a planet indicates the strength of the planet.
 
@@ -1031,9 +1031,9 @@ Suppose planets A, B, C, and D are in Sagittarius (Dhanus) between 26°-40' to 3
 
 Planet ‘B’ in between 27°-20' and 28°-26’-40” is in Jupiter’s sign, Sun’s star Uthrashada, and sub of Moon. Planet ‘C’ in between 28°-26’-40" and 29°-13'-20" is under the sway of Jupiter, lord of the Sign, Sun, lord of the star, and Mars, lord of the sub. Planet ‘D’ in between 29°-13’-20" and the end of the sign is in Rahu sub, the sign lord and star being Jupiter and Sun respectively.
 
-![img_15.png](img_15.png)
+![](img_15.png)
 
-![img_16.png](img_16.png)
+![](img_16.png)
 
 Therefore, one can note that hundreds of professions are indicated by the sign Sagittarius-Dhanus. But if we take constellations, each represents a few dozens of them. Sub exactly fixes the profession. Therefore, he who has the planets A, B, C, and D and if he runs ‘A’ dasa, he will then be magnanimous, reliable, honest, serve in Education Department or bank or be a physician. But when he runs the period of the planet ‘B’ he may be a politician or benefitted by a politician, then, if it is a benefic. When he runs the period of the planet ‘C’ he may be a civilian in Military, Defence Department, or an orator or a mayor or a minister. Planet ‘D’ may authorize him as one of the visitors of jails. Thus, the planet within these 3°-20' has to indicate many varieties. When the sub is applied, one can eliminate most of them and pinpoint on very few items which alone is helpful to the querist.
 
@@ -1045,7 +1045,7 @@ Suppose a planet transits in a sign, e.g. take Jupiter. According to the princip
 
 Further, a planet in the sub of an evil planet indicates loss, difficulty, or failure whereas the same planet, in the same star, but in the sub of a benefic, promises success, gain, and pleasure. The lord of the constellation may indicate the matters of the 7" house. The planet in the sub of a malefic causes enmity whereas that in the sub of a benefic brings in harmony and happiness. Also, the planet in the sub of an evil one threatens loss in litigation whereas that in the sub of a benefic indicates victory even though the constellation lord denotes litigation. If a planet indicates business, the stars governed by this planet show business and the planet in beneficial sub promises profit whereas that in the sub of an evil one threatens loss. The lord of the constellation may show any one walk of life to the native. It is the sub which decides whether that area is advantageous or not and thereby indicates whether the planet occupying or transiting therein will offer desirable results or adverse ones.
 
-## Significance of Each Sub
+# Significance of Each Sub
 
 The Zodiac is divided into 27 constellations and each constellation is subdivided into 9 parts. This subdivision is called "SUB". In this Textbook wherever SUB is used, it means one of the 9 divisions of the star.
 Each star indicates many matters and when a prediction is to be offered, taking into consideration a planet and its situation in a constellation, one has to give many alternatives and hence the prediction will not be of much use to the querist. But if the sub is also included then, one can eliminate many of them and select a very few, out of the many indicated by the constellation.
@@ -1543,7 +1543,7 @@ Aquarius
 
 249: Jupiter, Mercury, Saturn: (27-53-20) (30-00-00). Thin built, pale complexion, person looks older than the age, eyes deepset, if mercury afflicted by Saturn produces ear troubles, fear complex, deafness (puss in the ear). If Moon also is afflicted then, defective speech, paralysis etc. Works as engineer, old puran writers, censor department, shorthand writer (if Mars connected) stenographer, intelligence department, tale carriers (if Venus connected) wood cutters, teachers, scientists, mines owner, landed properties, scientific laboratories, clubs, societies.
 
-## Sub useful for detailed reading
+# Sub useful for detailed reading
 
 (a) What each constellation signifies and (b) to each rasi born which constellation are beneficial and which are disadvantageous are to be understood first.
 
@@ -1569,7 +1569,7 @@ Thus, if one verifies, one can understand that the lord of the star shows a part
 
 This alone comes correct. Tradition is no good: never useful; nor scientific. So tradition cannot be applied universally.
 
-## Behaviour of Planets
+# Behaviour of Planets
 
 To make the book handy, this chapter is written in a concise form. One can find that different results are offered by the same planet as it occupies the constellation owned by those ruling different houses (Bhavas) in the chart. There are 12 houses and 27 constellations. These 27 constellations are governed by 9 planets. Therefore, a planet offers results after the corresponding modification due to its position in a particular constellation, which is ruled by planet governing certain house or houses in the chart.
 
@@ -1597,7 +1597,7 @@ Rahu and Kethu will occupy a house. They govern the stars Arudhra, Swathi, Satha
 
 Summing up the explanation, let me put all these in a nutshell. Note in which star a planet is; who is the lord of the constellation; in which house this lord is posited and to which houses he is the owner. Then read as follows; Lord of the constellation...... in... house (occupant). Lord of the constellation owing..... houses (lordship). All the results indicated will be experienced during the period of the planet situated in that constellation.
 
-### SUN
+## SUN
 Sun governs the stars Karthigai, Uthrapalguni and Uthrashada stars. Whatever be the planets and whichever house they own or occupy, they will, when situated in Sun's star, will predominantly offer results of the house portrayed by Sun only.
 
 Suppose one is born in Karkata Lagna and Sun is occupying Aries in the 10th house. A planet, whatever it may be, will bestow the results indicated by Sun i.e. 10th predominantly, than Sun as Lord of 2. Suppose Venus occupies Karthikai star, then Venus gives the matters signified by 10th house more predominantly than the matters indicated by 2nd/4th house. Venus is the source to fulfil such matters, according to its own ownership, nature and occupation.
@@ -1619,7 +1619,7 @@ Therefore, the results that are given below as Sun in 1 or lord of 1 means that 
 11. Ambitious, fulfils one's desire, respectful, loyal, honest connection with people in power, hopeful, permanent friends, social success, good business, many conveyance, unfriendly with politicians, principled.
 12. Success in medicine, chemistry, occult science. Association with hospital, prison, sanatorium etc., Prefers to lead a secluded life, self-sacrificing. If afflicted poverty, not straightforward, likes widows, unscrupulous, dispute with parents, danger to children, loss in foreign land.
 
-### Moon
+## Moon
 
 The results of planets in Rohini, Hastham, or Sravanam governed by Moon change according to Moon's occupation or ownership.
 
@@ -1638,7 +1638,7 @@ The results of planets in Rohini, Hastham, or Sravanam governed by Moon change a
 
 If a planet, say Mars, is in Hastham, and the Lagna of the person is Scorpio and Moon occupies 11th house, Virgo, one has to consider as follows: Moon is lord of 9th; Moon is in 11th; the latter is more predominant. So, the planet that is situated in Hastham (or Rohini or Sravanam) offers the matters signified by 11th House bhava more predominantly than the matters indicated by 9th house. These matters are fulfilled through Mars, lord of 1st and 6th. The source of fulfillment or accomplishment is Mars, according to its nature, occupation and ownership. The result is given by Moon when Moon's period or Sub period runs.
 
-### MARS
+## MARS
 Mrigasira, Chithrai and Dhanishta are governed by Mars. Planets in these stars will offer such results as given below depending on the occupation or lordship of Mars.
 
 1. Ambitious, aspiring, assertive, bold, rash, cruel, wicked, burn or scar in the head, pilfering habits, commands respect, danger to elders, wandering, both constructive and destructive.
@@ -1654,7 +1654,7 @@ Mrigasira, Chithrai and Dhanishta are governed by Mars. Planets in these stars w
 11. Gains through agriculture, income increases, promotion, prosperity, progress, popularity, well-informed elder brothers, self-made, possesses property, a few reliable friends.
 12. Danger, injury, scandal, treacherous, visits jails, liability to imprisonment, cheat, loss of partner, sore eyes, difficulties.
 
-### Mercury
+## Mercury
 
 If a planet is situated in any of the 3 stars Aslesha, Jyesta and Revathi, governed by Mercury, judge the result according to the occupation and ownership of Mercury.
 
@@ -1671,7 +1671,7 @@ If a planet is situated in any of the 3 stars Aslesha, Jyesta and Revathi, gover
 11. Owns much property, increases wealth, prosperous, generous, charitable, respectful, many acquaintances, only a few permanent friends, associates with youngsters; good in mathematics and astrology.
 12. Adulterous, danger to mother and uncle, poor number of children, lazy, poverty, fond of occultism, secret arts, unusual thoughts, petty quarrels, anxiety, scandal.
 
-### Jupiter
+## Jupiter
 
 Punarvasu, Visaka and Poorvapathrapadha are governed by Jupiter. If a planet is situated in any of the 3 stars one is to judge the results according to the house occupied by Jupiter and also owned by it.
 
@@ -1688,7 +1688,7 @@ Punarvasu, Visaka and Poorvapathrapadha are governed by Jupiter. If a planet is 
 11. Good friends, well placed in life, gains through Jupiterians, social success, popularity, realizes ambition, birth of children, learns music, masters it, possesses building, enjoys all comforts.
 12. Gains through law, medicine, occult subjects, service in public institutions, visits hospitals and asylums. Connections with foreigners, danger to children, or limited number of children, enlargement of spleen, evil tendencies and scandal if afflicted. Wanders, becomes a sanyasi, pious, in the end of life Moksha.
 
-### Venus
+## Venus
 
 Barani, Poorvaphalguni and Poorvashada are the three stars governed by Venus. Planets occupying any of the three stars will give the following results corresponding to the house which Venus has occupied or owns.
 
@@ -1705,7 +1705,7 @@ Barani, Poorvaphalguni and Poorvashada are the three stars governed by Venus. Pl
 11. Very rich, luxurious comforts, learned, possesses lands, gains in agriculture, uses good conveyance, pleasant friend, social success, prosperity after marriage.
 12. Romantic life, investigates secret arts, gains through charitable and public institution, enjoys peaceful life in seclusion, happy and satisfactory sexual bliss, immoral tendencies in plenty, does not reject women though low born, pleasant promises and unworthy performance.
 
-### Saturn
+## Saturn
 
 Pushyam, Anuradha, and Uttarapathrapada (Uttrattathi) are governed by Saturn. Saturn may occupy any house and own two of the 12 bhavas. Whatever Saturn indicates by its occupation of a particular bhava and the ownership of the two bhavas, will be offered by the planets, in any of the 3 stars.
 
@@ -1722,13 +1722,14 @@ Pushyam, Anuradha, and Uttarapathrapada (Uttrattathi) are governed by Saturn. Sa
 11. Select friends, mostly elders, hopes fulfilled, becomes rich, owns lands, political power, obstacles in education, danger to elder brother, enjoys conveyance, vehicle, commands authority, success in enterprises, promotion, influence, increase in income.
 12. Life in a secluded place, danger of imprisonment, secret inimical activities, downfall, loss, accidents, injury, secret sorrows, disappointment in love affairs, dissatisfaction in sexual life, wasting money for nasty purposes, vision defective, ill-health to children, weak constitution, misery.
 
-### Rahu & Ketu
+## Rahu & Ketu
 
 As regards Rahu and Ketu, they indicate the results of the planet with which they are conjoined. If no planet is in conjunction with them, they bestow the results of the planets aspecting them. If Rahu or Ketu is neither conjoined with, nor aspected by any planet, it offers the results of the lord of the constellation in which it is deposited, and lastly the results of the sign. So one is to include the results of Rahu or Ketu in a particular house along with those of the lords of the constellation. If the lord of the constellation is a benefic, one can expect advantageous results. If the lord of the constellation or the planet conjoined with or aspecting be a malefic, only undesirable results will be experienced.
 
 Rahu or Ketu gives the results to a much greater extent than what the lord of the constellation can offer. Therefore, imagine as though the lord of the constellation is posited in that house in which Rahu or Ketu was tenanted. Also imagine that the lord of the constellation is posited in that bhava and it gives the results to a greater extent. Suppose one is born in Kumba lagna, Rahu is posited in the 10th house in Anuradha constellation. And suppose there is no planet in conjunction with nor any planet aspecting it; then Rahu will produce the results of Saturn owning the 18th and 12th houses and the results of the matters signified by the house occupied by Saturn. When one has to give the results of Rahu one has to imagine as though Rahu which is in Anuradha star will act as an agent of Saturn or as though Saturn itself is in Anuradha. But if Rahu were to be in Jyesta, then it has to represent Mercury. So, imagine as though Mercury is in Jyesta and include the matters signified by lord of 5th and 8th: give more importance to the matters indicated by that bhava occupied by Mercury. Thus one has to blend the results and judge properly before venturing a prediction.
 
-## HOW TO JUDGE WHETHER A PLANET IS A BENEFIC OR A MALEFIC
+# HOW TO JUDGE WHETHER A PLANET IS A BENEFIC OR A MALEFIC
+
 Hindus are of the opinion that Jupiter is the greatest benevolent and fortunate planet, with Venus coming next. Unaffiliated Mercury and waxing Moon are weak benefics. Hindus consider Sun and the other planets (Mars, Saturn, Rahu, and Kethu) as malefics. Further, according to lordship, in Jathaka Chandrika the author claims that the lords of the houses 3, 6, 8, and 11 are malefics. By that, he means (according to me) that these are evil only for one's health and longevity and not for other aspects in one's life. The same author says that the lords of the houses 1, 5, 9, and 10 will produce advantageous results to a native and classifies them as benefics.
 
 Westerners do not agree with Hindus in considering Sun as a malefic. They have classified Sun, Jupiter, Venus, Waxing Moon, and Mercury as benefics and the other planets (excluding Rahu and Kethu, the Nodes, including Uranus and Neptune) as malefics. They do not attach importance to the houses which they own, except that the planet which forms an evil aspect is adverse, and they judge a planet as a benefic or malefic only from the aspects which they receive. They claim that a planet, even though by nature a malefic and by lordship also owning the houses signifying undesirable matters, becomes a benefic if it receives beneficial aspects and is devoid of adverse ones.
@@ -1771,7 +1772,8 @@ Hence, planet is the source, constellation indicates the nature of the result, a
 
 If we dispassionately observe, we find that certain beneficial results to us are disadvantageous to our relatives, etc. Each house has to contribute certain aspects in one’s life and so every house is important. Therefore, the planet signifying the matters of each house has to be well posited so that through such matters he can have pleasure. If a house is afflicted, through that source, he will have worry. If the 5th house is spoiled, then the general principle that lord of 5 will do good cannot be correct. Lord of 5 may be a benefic; it can be by nature also a benefic, yet it need not necessarily offer beneficial results to him as the lord of the constellation in which it is posited will be detrimental to the child thereby causing anxiety to the native. Hence no planet is wholly a benefic nor in full a malefic. It is similar to the rose with thorns. A planet is said to be a malefic when thorns are many. A planet is a benefic when the thorns have fallen down and the rose alone looks bright, without any bee, which may perchance sting.
 
-## Cusps and Subs - How to Judge
+# Cusps and Subs - How to Judge
+
 If the point which rises in the east, which is called the ascendant, happens to fall in a sub, the lord of which is the significator of the ascendant itself, it indicates whether one can maintain good health or not; whether one can resist against infectious disease or not; whether one’s efforts will be successful or not; whether one’s younger brother will gain; whether one’s mother can command the esteem of others; whether one’s children will have higher studies or go overseas; or make a long journey; whether one’s wife or competitors or partner will meet with any adverse results or any danger to their lives, etc.
 
 If the sub lord of the ascendant is the significator of the ascendant and second house, one gains money; enters into service or increases their bank position. Benefit accrues through industrious activity.
@@ -1820,7 +1822,8 @@ If the sub-lord of the second cusp is the significator of 2 and 12, one can make
 
 Thus one is to find out to which house a planet is the significator and calmly judge what it can do.
 
-## CONSTELLATION AND SUB
+# CONSTELLATION AND SUB
+
 Since the zodiac is of 360° and it is equally divided into 12 signs, each extending to 30” exactly, in each sign there will be, on the whole 2 1/4, constellations, as shown below.  
 In Aries : Aswini, Bharani and 1/4 of Karthik;   
 In Taurus : Karthik 3/4, Rohini and Mrigasira 1/2   
@@ -1837,7 +1840,7 @@ In Pisces : PP Pada 1/4, U.P Pada, and Revathi.
 
 Constellation needs consideration. The sign occupied by a planet is not as important as the constellation it is in. If a planet is in the 12th house, it is said to cause separation, loss, and the issuing of cheques, etc., but actually there can be reunion, gain, and receipt of cheques.
 
-![img_10.png](img_10.png)
+![](img_10.png)
 
 Example: Jupiter Dasa 3 years 1 month 6 days. This gentleman had gains, fortune, and success during Saturn, Mars, and Sun sub-periods; desirable benefits during Jupiter and Mercury sub-periods. But Kethu in 10, Venus in 11, and Rahu in 4 gave untoward and undesirable results.
 
@@ -1871,7 +1874,7 @@ Thus, one should note separately what each planet signifies. Then, in which sub 
 
 Say, mother, father, child, etc. Mother is shown by 4th house, father by 9th house, and child by 5th house. So, note the significators of 4, 9, and 5.
 
-![img_11.png](img_11.png)
+![](img_11.png)
 
 Let us take the above chart. Kethu Dasa balance 0-5-23. The constellation ruled by a planet indicates the matters signified by the bhava occupied or owned by it. The sub lord occupied by a planet denotes whether it is auspicious for the progress of that Bhava or inauspicious so that one has obstacle or faces disappointment or negation of the matter. This applies to all bhava results.
 

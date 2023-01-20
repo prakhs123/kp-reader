@@ -138,8 +138,20 @@ If the lord of the 7th house occupies the 2nd house, one will regain that which 
 ### Never Can Regain:
 If the lord of the 8th house is in the 2nd or 3rd house, one's property will dwindle down and they cannot regain anything that is lost. Malefics in the 8th house destroy wealth. Malefics in the 8th and 12th houses afflicting the 2nd house threaten loss. In horary astrology, a malefic in the 6th, 7th, or 8th house conjoined with the lord of the ascendant shows loss of wealth and the lost cannot be recovered.
 ### Example Horoscopes of Rich Persons Who Gain Crores of Rupees Every Year:
-Very intelligent and noble gents: (a) How many planets are exalted? (b) What are the Yogas? (c) But note in which constellation the planets were posited. Sun in the constellation of the lord of the 2nd and 11th houses. These four examples are given for students to study. Note whether there are the so-called Rajayogas. The above horoscopes belong to the richest person in India. Look, the future promises more riches.
+Very intelligent and noble gents: (a) How many planets are exalted? (b) What are the Yogas? (c) But note in which constellation the planets were posited. Sun in the constellation of the lord of the 2nd and 11th houses. These four examples are given for students to study.
+
+![img_81.png](img_81.png)
+
+![img_79.png](img_79.png)
+
+Note whether there are the so-called Rajayogas. 
+
+![img_80.png](img_80.png)
+
+The above horoscopes belong to the richest person in India. Look, the future promises more riches.
 ### Fortune in Service
+
+![img_78.png](img_78.png)
 
 Born on Saturday at 7-10 A.M. L.M.T. on 7-8-1920 at 22° 0' North and 73° 16' East.
 

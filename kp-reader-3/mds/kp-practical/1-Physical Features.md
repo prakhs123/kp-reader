@@ -111,6 +111,8 @@ The following examples and explanations will be useful. This method is applicabl
 7. How to judge the longevity is explained with two examples. Bhadakasthana, Kendraadhipathya, and Marakasthanas are explained.
 Ex. 1. Chart is as follows:
 
+![img_85.png](img_85.png)
+
 Mars, lord of the Lagna, rules the sub of the Ascendant. Health, vitality, resistance against infectious diseases, immunity, and activity are judged from the strength of the Ascendant, planets in the Lagna Bhava, those occupying their constellation, the good or bad aspects to the Ascendant and to the lord of the Ascendant. Benefics in the Ascendant contribute to a long span of life.
 
 Lord of the Ascendant forming a favourable aspect with the Ascendant and receiving harmonious aspect from benefics promises a long life. Ascendant is Scorpio. Its lord is Mars. As per Hindu System, it is aspecting the Lagna and fortifying it. Therefore, health and longevity are assured by Mars.
@@ -155,6 +157,9 @@ The lagna of the example horoscope is Vrischika. It is a fixed sign. The 9th hou
 As purna Ayush is promised by the aspect of Mars on Lagna, Jupiter's aspect to lord of Lagna etc, and as it is, he is now running 63 years of age, consider which dasa will prove to be evil. Mercury dasa, Venus Bhukti from 4-6-1962 will operate upto 4-4-1965. Venus in the 6th Bhava, in the dasa of lord of 8 can cause cataract in the eye. It will be developing in this period and in the bhukti of sun, who is in the constellation of the lord of Lagna Mars, will give vision with the aid of a surgeon. Later Moon Bhukti will be pleasant which will be continuously enjoyed during Mars sub period.
 
 Rahu Bhukti begins on 7-7-1968. Rahu is undoubtedly evil. Dasanatha Mercury, lord of 8, in the constellation of Rahu, in Mokshasthana, representing Kendradhipathi Venus, is also undesirable. Kethu in the constellation of Mars is not favourable. Kethu is in the 6th sign, but in the 5th Bhava, it is said that Kethu in the 5th house conjoined with Marakasthana-adhipathi will inflict death. Therefore Budha dasa, Rahu bhukti, Ketu anthra will be the end. Budha dasa Rahu bhukti commences on 7-7-68: Ketu anthra will be between 2-1-70 and 25-2-70. As per transit on 18-2-70, Saturn will be in Ketu star Saturn sub and conjoins exactly Kethu (the anthranatha) opposing Rahu the Bhukti natha. Therefore longevity upto 18-2-1970 is promised. (Actually this native passed away at 7.30 a.m. on 18-2-70).
+
+![img_84.png](img_84.png)
+
 Sublord of the Ascendant shows one's health, vitality, immunity and longevity: Planets, benefic, by lordship, occupying Lagna, do not guarantee for long span of life so also Malefics to affect health. Though Cancer-natives are considered to be fragile in their youth, they pick up health later and lead a healthy life, yet longevity depends upon the exact position of the Lagna, the sublord and the lord of the constellation in which the sublord is deposited.
 
 6th house shows disease. Planets occupying or owning the house are weaker in strength than the planets in the constellation of the occupants and owner.

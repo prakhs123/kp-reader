@@ -121,7 +121,9 @@ Venus, Mars and Moon with beneficial strength contribute to motor car, etc. If t
 
 There are a few yogas; one can have the gift of a car if:
 
-1. The lords of 1 and 4 are strong and they are posited in 11 aspected by the lords of 9 and 10. As an illustration, the following chart is given: The balance of Mars Dasa at birth was 1 year 4 months 20 days. He got married in the end of January, 1961 during Jupiter Dasa, Mercury Bhukti, and Sun Anthra and obtained a car for his use from his father-in-law;
+1. The lords of 1 and 4 are strong and they are posited in 11 aspected by the lords of 9 and 10. As an illustration, the following chart is given: The balance of Mars Dasa at birth was 1 year 4 months 20 days.
+![img_65.png](img_65.png)
+He got married in the end of January, 1961 during Jupiter Dasa, Mercury Bhukti, and Sun Anthra and obtained a car for his use from his father-in-law;
 2. The lord of 5 is in 9 and lord of 9 in 10, associated with lords of 1 and 4;
 3. The lords of 9 and 10 are in a Kendhra or Kona associated with the lords of 4 aspecting each other; or,
 4. The lords of 4 and 9 are in exaltation or posited in the Lagna.
@@ -129,7 +131,12 @@ There are a few yogas; one can have the gift of a car if:
 If Sun and the lord of 6 are connected with them, one can borrow money from the office and own a car, scooter or cycle. If Jupiter and the lord of 6 are associated with the Vahana Yoga planets, one can have a car on hire purchase. If Rahu is associated with Sun or the lord of 2, 10 and the Vahana Yoga Planet, one can use the pass issued by the office or use the vehicle of the Department in which he serves.
 
 If the sublord of 4 cusp is associated with Mars, or significator of 3 and 11 Vahanayogam through brother is promised. If Venus is in 4 with the lord of 4 in 7 and if the lords of 4 and 7 are friends, one can have Vahanam through partner, wife or husband. (See example charts given below)
+
+![img_64.png](img_64.png)
+
 The lords of 4th and 7th houses, posited in 2nd house, possessing beneficial strength, also indicate Vahana Yogam through family members.
+
+![img_63.png](img_63.png)
 
 "Ah! There are so many chances for one to possess a vehicle. See, will any one of the above combinations do? That is good. Now, what about my chart - any gift? I don't want a free lift."
 

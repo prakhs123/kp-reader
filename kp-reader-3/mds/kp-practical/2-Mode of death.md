@@ -40,7 +40,7 @@ The horoscope of one who was born with Moon and Jupiter in Cancer, like Lord Shr
 
 Male chart - Born on 2-11-1931 - Monday.
 Jupiter dasa - Balance 3 years, 8 months, 28 days.
-
+![img_83.png](img_83.png)
 The following is the chart of the wife who has survived her husband.
 Mercury dasa - Balance 4 years, 5 months, 24 days. By air crash it is meant (a) one has the opportunity to go by air, on a long journey (b) the unexpected end (c) in husband’s chart, a far off place. Long journey is indicated by the 9th house. Planets in the 9th house are Moon and Jupiter. Rohini, Hastham, and Sravanam are ruled by Moon. Ketu alone is in Hastham. Venus, Mercury, and Moon are in Jupiter's constellation. Mercury is lord of 9. It is in Shookshma Parivarthana yoga with Jupiter. Jupiter alone is in Mercury’s constellation. Hence, Mercury, Jupiter, Moon, Venus, and Kethu are the significators.
 
@@ -65,6 +65,8 @@ September 1, 1969
 A Friend Says
 
 "The following is my chart. On 1-9-1962, Saturday while returning from office, a truck dashed my vehicle. I fell on the left and escaped. If I had fallen on the right, I would have been run over and crushed. Do you expect any injury or similar accident, in future?
+
+![img_82.png](img_82.png)
 
 Mercury dasa Balance at birth 9 years, 3 months, 5 days."
 
